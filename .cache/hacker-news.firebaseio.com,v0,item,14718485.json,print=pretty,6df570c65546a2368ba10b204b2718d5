@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:23:34 GMT
+date: Sat, 08 Jul 2017 09:11:53 GMT
 content-type: application/json; charset=utf-8
 content-length: 352
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14718485.json?print
 
 {
   "by" : "robinhowlett",
-  "descendants" : 24,
+  "descendants" : 25,
   "id" : 14718485,
-  "kids" : [ 14722308, 14722491, 14722943, 14723320, 14722280, 14723641, 14722212, 14720514 ],
-  "score" : 87,
+  "kids" : [ 14722308, 14722491, 14722943, 14723320, 14722280, 14723641, 14720514, 14722212 ],
+  "score" : 90,
   "time" : 1499437089,
   "title" : "Show HN: Parsing horse racing charts with Apache PDFBox",
   "type" : "story",

@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:06 GMT
+date: Sat, 08 Jul 2017 09:11:52 GMT
 content-type: application/json; charset=utf-8
-content-length: 304
+content-length: 314
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14721126.json?print
 
 {
   "by" : "signa11",
-  "descendants" : 11,
+  "descendants" : 12,
   "id" : 14721126,
-  "kids" : [ 14721488, 14721338, 14721680, 14723134, 14722182, 14723736 ],
-  "score" : 159,
+  "kids" : [ 14721488, 14721338, 14721680, 14724644, 14723134, 14722182, 14723736 ],
+  "score" : 165,
   "time" : 1499454205,
   "title" : "Roland McGrath bows out as glibc maintainer",
   "type" : "story",

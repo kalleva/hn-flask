@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Fri, 07 Jul 2017 20:15:52 GMT
+date: Sat, 08 Jul 2017 09:11:53 GMT
 content-type: application/json; charset=utf-8
-content-length: 374
+content-length: 395
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14717692.json?print
 
 {
   "by" : "yoav_hollander",
-  "descendants" : 16,
+  "descendants" : 23,
   "id" : 14717692,
-  "kids" : [ 14720882, 14718995, 14721661, 14720200, 14719786, 14720302 ],
-  "score" : 66,
+  "kids" : [ 14720882, 14718995, 14722294, 14720200, 14719786, 14723206, 14720302, 14721661 ],
+  "score" : 116,
   "time" : 1499428509,
   "title" : "Where machine learning meets rule-based systems",
   "type" : "story",

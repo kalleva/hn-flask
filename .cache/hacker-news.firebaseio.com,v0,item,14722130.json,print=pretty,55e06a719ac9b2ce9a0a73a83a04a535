@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:02 GMT
+date: Sat, 08 Jul 2017 09:11:49 GMT
 content-type: application/json; charset=utf-8
 content-length: 354
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14722130.json?print
 
 {
   "by" : "digital55",
-  "descendants" : 35,
+  "descendants" : 38,
   "id" : 14722130,
   "kids" : [ 14722316, 14724420, 14722563, 14722734, 14723754 ],
-  "score" : 152,
+  "score" : 170,
   "time" : 1499461821,
   "title" : "How Nature Solves Problems Through Computation",
   "type" : "story",

@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:03 GMT
+date: Sat, 08 Jul 2017 09:11:50 GMT
 content-type: application/json; charset=utf-8
-content-length: 578
+content-length: 598
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14720650.json?print
 
 {
   "by" : "jpn",
-  "descendants" : 144,
+  "descendants" : 149,
   "id" : 14720650,
-  "kids" : [ 14721111, 14721061, 14721291, 14721913, 14721519, 14723726, 14721375, 14721171, 14721253, 14721072, 14721079, 14722010, 14721086, 14720903, 14721246, 14724286, 14721036, 14721393, 14721397, 14721045, 14722872, 14721358, 14721964, 14721038, 14721388, 14721402, 14720985 ],
-  "score" : 301,
+  "kids" : [ 14721111, 14721061, 14721291, 14721913, 14721519, 14723726, 14721253, 14721375, 14721072, 14724578, 14721171, 14724654, 14721079, 14721086, 14722010, 14721246, 14720903, 14721036, 14721393, 14721397, 14724286, 14721045, 14722872, 14721358, 14721964, 14721038, 14721388, 14721402, 14720985 ],
+  "score" : 316,
   "time" : 1499451132,
   "title" : "Good at programming competitions does not equal good on the job [video]",
   "type" : "story",

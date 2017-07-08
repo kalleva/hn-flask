@@ -1,0 +1,20 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:11:50 GMT
+content-type: application/json; charset=utf-8
+content-length: 243
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724624.json?print=pretty
+
+{
+  "by" : "FabioFleitas",
+  "id" : 14724624,
+  "score" : 1,
+  "time" : 1499501740,
+  "title" : "Tesorio (YC S15) Is Hiring a Product Designer, Account Executive and Sales Rep",
+  "type" : "job",
+  "url" : "https://www.tesorio.com/careers/"
+}

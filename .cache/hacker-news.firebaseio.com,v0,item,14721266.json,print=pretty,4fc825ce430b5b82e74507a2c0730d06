@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:02:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 711
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721266.json?print=pretty
+
+{
+  "by" : "Dowwie",
+  "descendants" : 65,
+  "id" : 14721266,
+  "kids" : [ 14722553, 14721312, 14721917, 14721349, 14721929, 14722245, 14722229, 14722313, 14722016, 14722058, 14722001, 14721936, 14722897, 14722232, 14722337, 14722267, 14722846, 14721763, 14723020, 14721918, 14722302, 14721302, 14722275, 14722315, 14722365, 14722287, 14722223, 14722040, 14722557, 14721699, 14722021, 14722163, 14722228, 14722611, 14722865, 14722006, 14722288, 14722307, 14722354, 14722173, 14721876, 14721859, 14722279, 14721875, 14723804, 14721908, 14722380 ],
+  "score" : 46,
+  "text" : "Describe your backup workflow",
+  "time" : 1499455275,
+  "title" : "Ask HN: How do you backup your linux system?",
+  "type" : "story"
+}

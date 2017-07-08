@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:02:12 GMT
+content-type: application/json; charset=utf-8
+content-length: 400
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14715425.json?print=pretty
+
+{
+  "by" : "betahost",
+  "descendants" : 68,
+  "id" : 14715425,
+  "kids" : [ 14717978, 14717452, 14715616, 14717739, 14716598, 14715704, 14716050, 14718159, 14719515, 14717638, 14719026, 14718362 ],
+  "score" : 158,
+  "time" : 1499391961,
+  "title" : "Manage Kubernetes Clusters on AWS Using Kops",
+  "type" : "story",
+  "url" : "https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/"
+}

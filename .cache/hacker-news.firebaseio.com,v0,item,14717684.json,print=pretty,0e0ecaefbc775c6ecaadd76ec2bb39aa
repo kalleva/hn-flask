@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Fri, 07 Jul 2017 20:15:52 GMT
+date: Sat, 08 Jul 2017 09:11:53 GMT
 content-type: application/json; charset=utf-8
-content-length: 456
+content-length: 507
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14717684.json?print
 
 {
   "by" : "sajid",
-  "descendants" : 55,
+  "descendants" : 91,
   "id" : 14717684,
-  "kids" : [ 14719443, 14718118, 14719057, 14718879, 14719313, 14720355, 14719345, 14718966, 14721138, 14719366, 14719724, 14719985, 14720250, 14720869, 14718954, 14719494, 14719614 ],
-  "score" : 80,
+  "kids" : [ 14719443, 14718118, 14719057, 14718879, 14720355, 14719313, 14719345, 14718966, 14722495, 14721983, 14723391, 14719366, 14722106, 14719724, 14719985, 14720250, 14722100, 14721138, 14718954, 14720869, 14719614, 14719494 ],
+  "score" : 118,
   "time" : 1499428319,
   "title" : "All Watched Over by Machines of Loving Grace (2011)",
   "type" : "story",

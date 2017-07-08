@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:02:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 345
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14714696.json?print=pretty
+
+{
+  "by" : "grzm",
+  "descendants" : 77,
+  "id" : 14714696,
+  "kids" : [ 14715256, 14715279, 14715902, 14715707, 14717590, 14717257, 14716621, 14715969, 14715503, 14717173, 14717301 ],
+  "score" : 168,
+  "time" : 1499382370,
+  "title" : "Migration from Postgres to Datomic",
+  "type" : "story",
+  "url" : "http://grishaev.me/en/pg-to-datomic"
+}

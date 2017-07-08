@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:06:14 GMT
+content-type: application/json; charset=utf-8
+content-length: 266
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724188.json?print=pretty
+
+{
+  "by" : "TTM_Ronald",
+  "descendants" : 0,
+  "id" : 14724188,
+  "score" : 4,
+  "time" : 1499490843,
+  "title" : "Using Keras to detection pavament cracks in aerial images",
+  "type" : "story",
+  "url" : "https://github.com/TTMRonald/AerialCrackDetection_Keras"
+}

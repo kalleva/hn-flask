@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 08:07:44 GMT
+date: Sat, 08 Jul 2017 09:06:11 GMT
 content-type: application/json; charset=utf-8
 content-length: 250
 connection: keep-alive
@@ -13,7 +13,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14724403.json?print
   "by" : "ingve",
   "descendants" : 0,
   "id" : 14724403,
-  "score" : 3,
+  "score" : 4,
   "time" : 1499495713,
   "title" : "Linux tracing systems and how they fit together",
   "type" : "story",

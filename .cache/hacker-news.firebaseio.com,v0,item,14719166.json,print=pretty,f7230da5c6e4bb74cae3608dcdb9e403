@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:04 GMT
+date: Sat, 08 Jul 2017 09:11:51 GMT
 content-type: application/json; charset=utf-8
-content-length: 454
+content-length: 474
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14719166.json?print
 
 {
   "by" : "alexkavon",
-  "descendants" : 77,
+  "descendants" : 78,
   "id" : 14719166,
-  "kids" : [ 14720330, 14720786, 14719851, 14720270, 14721039, 14723478, 14720292, 14721219, 14720470, 14720210, 14721853, 14722605, 14722474, 14720689 ],
-  "score" : 235,
+  "kids" : [ 14720330, 14720786, 14719851, 14720270, 14721039, 14724557, 14723478, 14720292, 14721219, 14720470, 14720210, 14724526, 14721853, 14722605, 14722474, 14720689 ],
+  "score" : 242,
   "time" : 1499441656,
   "title" : "How to See What the Internet Knows About You",
   "type" : "story",

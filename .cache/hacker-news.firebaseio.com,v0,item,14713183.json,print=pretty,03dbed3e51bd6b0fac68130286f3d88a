@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:02:13 GMT
+content-type: application/json; charset=utf-8
+content-length: 346
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14713183.json?print=pretty
+
+{
+  "by" : "GrantCuster",
+  "descendants" : 7,
+  "id" : 14713183,
+  "kids" : [ 14714322, 14723411, 14714100, 14716366, 14713386 ],
+  "score" : 205,
+  "time" : 1499369424,
+  "title" : "Probabilistic programming from scratch",
+  "type" : "story",
+  "url" : "http://blog.fastforwardlabs.com/2017/07/06/probabilistic-programming-from-scratch.html"
+}

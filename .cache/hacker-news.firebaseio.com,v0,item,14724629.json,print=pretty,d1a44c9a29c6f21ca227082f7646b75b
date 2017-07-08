@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:12:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 285
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724629.json?print=pretty
+
+{
+  "by" : "vinchuco",
+  "descendants" : 1,
+  "id" : 14724629,
+  "kids" : [ 14724634 ],
+  "score" : 1,
+  "time" : 1499501847,
+  "title" : "Attempt at Lip Reading with AI",
+  "type" : "story",
+  "url" : "https://www.technologyreview.com/s/602949/ai-has-beaten-humans-at-lip-reading/"
+}

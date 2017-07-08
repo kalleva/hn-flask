@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:06 GMT
+date: Sat, 08 Jul 2017 09:11:51 GMT
 content-type: application/json; charset=utf-8
 content-length: 280
 connection: keep-alive
@@ -14,7 +14,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14719607.json?print
   "descendants" : 1,
   "id" : 14719607,
   "kids" : [ 14723295 ],
-  "score" : 21,
+  "score" : 25,
   "time" : 1499444340,
   "title" : "Usage Patterns and the Economics of the Public Cloud [pdf]",
   "type" : "story",

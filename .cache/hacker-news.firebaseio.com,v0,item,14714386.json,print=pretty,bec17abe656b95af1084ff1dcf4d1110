@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:23:35 GMT
+date: Sat, 08 Jul 2017 09:02:12 GMT
 content-type: application/json; charset=utf-8
 content-length: 357
 connection: keep-alive
@@ -13,7 +13,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14714386.json?print
   "by" : "xetorthio",
   "descendants" : 45,
   "id" : 14714386,
-  "kids" : [ 14715324, 14715302, 14718484, 14717494, 14715883, 14715250, 14715057, 14715897, 14714971, 14719842, 14716636 ],
+  "kids" : [ 14715324, 14715302, 14717494, 14718484, 14715883, 14715250, 14715057, 14715897, 14714971, 14719842, 14716636 ],
   "score" : 150,
   "time" : 1499379380,
   "title" : "Show HN: An online interactive Kubernetes playground",

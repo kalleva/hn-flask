@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 08:07:43 GMT
+date: Sat, 08 Jul 2017 09:12:02 GMT
 content-type: application/json; charset=utf-8
 content-length: 214
 connection: keep-alive
@@ -13,7 +13,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14724427.json?print
   "by" : "rm2904",
   "descendants" : 0,
   "id" : 14724427,
-  "score" : 1,
+  "score" : 2,
   "time" : 1499496127,
   "title" : "Ask HN: What niche content driven sites are generating passive income for you?",
   "type" : "story"

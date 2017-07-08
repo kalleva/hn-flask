@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:03 GMT
+date: Sat, 08 Jul 2017 09:11:49 GMT
 content-type: application/json; charset=utf-8
-content-length: 464
+content-length: 475
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14723853.json?print
 
 {
   "by" : "fmihaila",
-  "descendants" : 56,
+  "descendants" : 81,
   "id" : 14723853,
-  "kids" : [ 14723983, 14724127, 14724167, 14724375, 14723985, 14724305, 14723987, 14724024, 14724082, 14724081 ],
-  "score" : 84,
+  "kids" : [ 14723983, 14724127, 14724167, 14724375, 14724305, 14723985, 14723987, 14724024, 14724543, 14724082, 14724081 ],
+  "score" : 116,
   "time" : 1499483445,
   "title" : "Elon Musk's big battery brings reality crashing into a post-truth world",
   "type" : "story",

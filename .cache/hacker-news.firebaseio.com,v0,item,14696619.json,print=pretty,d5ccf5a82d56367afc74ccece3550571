@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:04 GMT
+date: Sat, 08 Jul 2017 09:05:56 GMT
 content-type: application/json; charset=utf-8
 content-length: 349
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14696619.json?print
 
 {
   "by" : "avyfain",
-  "descendants" : 32,
+  "descendants" : 34,
   "id" : 14696619,
   "kids" : [ 14721177, 14721737, 14720717, 14724157, 14722440, 14721795, 14720914 ],
-  "score" : 51,
+  "score" : 53,
   "time" : 1499184330,
   "title" : "Is social graph portability workable?",
   "type" : "story",

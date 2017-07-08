@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:06 GMT
+date: Sat, 08 Jul 2017 09:11:52 GMT
 content-type: application/json; charset=utf-8
 content-length: 555
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14720591.json?print
 
 {
   "by" : "acabal",
-  "descendants" : 160,
+  "descendants" : 169,
   "id" : 14720591,
-  "kids" : [ 14722085, 14721025, 14722376, 14722932, 14722651, 14721382, 14723184, 14722450, 14723457, 14721814, 14721224, 14721773, 14721499, 14721208, 14723752, 14721821, 14720977, 14721055, 14721694, 14721930 ],
-  "score" : 195,
+  "kids" : [ 14722085, 14721025, 14722376, 14722651, 14722932, 14721382, 14723184, 14722450, 14723457, 14721814, 14721224, 14721773, 14721499, 14721208, 14723752, 14721821, 14720977, 14721055, 14721694, 14721930 ],
+  "score" : 205,
   "time" : 1499450762,
   "title" : "Tim Berners-Lee approves Web DRM, but W3C members have two weeks to appeal",
   "type" : "story",

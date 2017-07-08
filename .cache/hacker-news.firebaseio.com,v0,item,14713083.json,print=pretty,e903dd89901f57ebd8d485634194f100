@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:02:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 797
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14713083.json?print=pretty
+
+{
+  "by" : "janober",
+  "descendants" : 261,
+  "id" : 14713083,
+  "kids" : [ 14713676, 14713458, 14713405, 14715149, 14713542, 14713843, 14718128, 14713384, 14715358, 14713469, 14720412, 14714857, 14713468, 14714162, 14718472, 14717429, 14714773, 14713556, 14713630, 14716548, 14716398, 14713833, 14714133, 14715762, 14714998, 14714132, 14716554, 14713814, 14713917, 14715139, 14714990, 14714984, 14717178, 14713322, 14713733, 14716758, 14716888, 14713930, 14713830, 14716290, 14714926, 14715124, 14715983, 14713559, 14713372 ],
+  "score" : 237,
+  "time" : 1499368686,
+  "title" : "An ‘Uber for garbage’ picks up steam, and $11.7M in Series A funding",
+  "type" : "story",
+  "url" : "https://techcrunch.com/2017/07/06/an-uber-for-garbage-picks-up-steam-and-11-7-million-in-series-a-funding"
+}

@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:05 GMT
+date: Sat, 08 Jul 2017 09:11:49 GMT
 content-type: application/json; charset=utf-8
-content-length: 313
+content-length: 289
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -13,9 +13,9 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14723887.json?print
   "by" : "troydavis",
   "descendants" : 0,
   "id" : 14723887,
-  "score" : 5,
+  "score" : 34,
   "time" : 1499483995,
-  "title" : "Cirque du Soleil acquires entertainment phenomenon Blue Man Group",
+  "title" : "Cirque du Soleil acquires Blue Man Group",
   "type" : "story",
   "url" : "https://www.cirquedusoleil.com/en/press/news/2017/cirque-du-soleil-acquires-blue-man-group.aspx"
 }

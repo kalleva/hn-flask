@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:06 GMT
+date: Sat, 08 Jul 2017 09:11:52 GMT
 content-type: application/json; charset=utf-8
 content-length: 435
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14720108.json?print
 
 {
   "by" : "pfarnsworth",
-  "descendants" : 103,
+  "descendants" : 105,
   "id" : 14720108,
   "kids" : [ 14720363, 14720427, 14722527, 14720317, 14720274, 14720346, 14720619, 14720332 ],
-  "score" : 155,
+  "score" : 158,
   "time" : 1499447747,
   "title" : "Most Waymo Patent Claims Dropped in Autonomous Car Fight with Uber",
   "type" : "story",

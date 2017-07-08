@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:02 GMT
+date: Sat, 08 Jul 2017 09:11:48 GMT
 content-type: application/json; charset=utf-8
-content-length: 410
+content-length: 470
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14723308.json?print
 
 {
   "by" : "songzme",
-  "descendants" : 112,
+  "descendants" : 131,
   "id" : 14723308,
-  "kids" : [ 14723598, 14723594, 14723485, 14724292, 14723517, 14723649, 14723628, 14723494, 14723897, 14723771, 14723739, 14723709, 14723950, 14723508, 14724001, 14724003, 14723519, 14723543, 14723504 ],
-  "score" : 354,
+  "kids" : [ 14723598, 14723594, 14723485, 14724691, 14724292, 14724611, 14724575, 14723628, 14723517, 14723649, 14723771, 14724589, 14723494, 14723897, 14723739, 14723709, 14724522, 14723950, 14723508, 14724646, 14724001, 14724003, 14723519, 14723543, 14723504 ],
+  "score" : 448,
   "time" : 1499473013,
   "title" : "What Is Ethereum?",
   "type" : "story",

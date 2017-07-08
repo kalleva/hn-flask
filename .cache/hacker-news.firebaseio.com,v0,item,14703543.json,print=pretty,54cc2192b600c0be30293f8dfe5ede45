@@ -1,8 +1,8 @@
 status: 200
 server: nginx
-date: Fri, 07 Jul 2017 20:15:53 GMT
+date: Sat, 08 Jul 2017 09:02:11 GMT
 content-type: application/json; charset=utf-8
-content-length: 299
+content-length: 329
 connection: keep-alive
 access-control-allow-origin: *
 cache-control: no-cache
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14703543.json?print
 
 {
   "by" : "k4rtik",
-  "descendants" : 16,
+  "descendants" : 20,
   "id" : 14703543,
-  "kids" : [ 14719077, 14719011, 14720857, 14720918 ],
-  "score" : 57,
+  "kids" : [ 14719077, 14719011, 14720918, 14720857, 14722414, 14722539, 14724350 ],
+  "score" : 92,
   "time" : 1499270586,
   "title" : "Lessons learned building a toy compiler",
   "type" : "story",

@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:05 GMT
+date: Sat, 08 Jul 2017 09:02:09 GMT
 content-type: application/json; charset=utf-8
 content-length: 404
 connection: keep-alive
@@ -13,8 +13,8 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14719133.json?print
   "by" : "selectnull",
   "descendants" : 67,
   "id" : 14719133,
-  "kids" : [ 14719776, 14719821, 14720534, 14719671, 14719663, 14723177, 14721462, 14723025, 14721143, 14719968 ],
-  "score" : 149,
+  "kids" : [ 14719776, 14719821, 14720534, 14719671, 14719663, 14723177, 14721462, 14721143, 14723025, 14719968 ],
+  "score" : 150,
   "time" : 1499441454,
   "title" : "Final Removal of Trust in WoSign and StartCom Certificates",
   "type" : "story",

@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:07 GMT
+date: Sat, 08 Jul 2017 09:11:52 GMT
 content-type: application/json; charset=utf-8
 content-length: 321
 connection: keep-alive
@@ -14,7 +14,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14722580.json?print
   "descendants" : 9,
   "id" : 14722580,
   "kids" : [ 14723699, 14723434, 14723619 ],
-  "score" : 37,
+  "score" : 40,
   "time" : 1499465530,
   "title" : "Waymo must disclose details of Lyft car deal to Uber",
   "type" : "story",

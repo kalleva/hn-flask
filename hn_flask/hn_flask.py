@@ -26,41 +26,47 @@ hn_api_urls = {
 h = httplib2.Http('.cache')
 
 hn_site_links = {
-    'show_url': 'https://hn-flask.herokuapp.com/show',
-    'top_url': 'https://hn-flask.herokuapp.com/',
-    'new_url': 'https://hn-flask.herokuapp.com/newest',
-    'ask_url': 'https://hn-flask.herokuapp.com/ask',
-    'jobs_url': 'https://hn-flask.herokuapp.com/jobs'
+    'top_url': '/',
+    'show_url': '/show',
+    'new_url': '/newest',
+    'ask_url': '/ask',
+    'jobs_url': '/jobs'
 }
 
 
 @app.route('/')
 @app.route('/news')
 def top_pages():
-    return create_template('top_stories', 10, 'top')
+    # if not hn_site_links:
+    #     init_sitelinks(get_base_url(request.url))
+    return create_template('top_stories', 'top')
 
 
 @app.route('/show')
 def show_pages():
-    return create_template('show_stories', 6, 'show')
+    # if not hn_site_links:
+    #     init_sitelinks(get_base_url(request.url))
+    return create_template('show_stories', 'show')
 
 
 @app.route('/newest')
 def new_pages():
-    return create_template('new_stories', 10, 'new')
+    # if not hn_site_links:
+    #     init_sitelinks(get_base_url(request.url))
+    return create_template('new_stories', 'new')
 
 
 @app.route('/jobs')
 def job_pages():
-    return create_template('job_stories', 6, 'job')
+    return create_template('job_stories', 'job')
 
 
 @app.route('/ask')
 def ask_pages():
-    return create_template('ask_stories', 6, 'ask')
+    return create_template('ask_stories', 'ask')
 
 
-def create_template(link_type, max_page, destination):
+def create_template(link_type, destination):
     """
     Create template based on url and additional info on number of elements
     request to API returns.

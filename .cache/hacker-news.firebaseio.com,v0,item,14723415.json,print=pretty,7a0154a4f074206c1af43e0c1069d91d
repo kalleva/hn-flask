@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:04 GMT
+date: Sat, 08 Jul 2017 09:11:50 GMT
 content-type: application/json; charset=utf-8
 content-length: 406
 connection: keep-alive
@@ -14,7 +14,7 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14723415.json?print
   "descendants" : 8,
   "id" : 14723415,
   "kids" : [ 14723939, 14723988, 14723547 ],
-  "score" : 85,
+  "score" : 95,
   "time" : 1499474783,
   "title" : "Federal Court Establishes Constitutional Right to Film Police Officers in Public",
   "type" : "story",

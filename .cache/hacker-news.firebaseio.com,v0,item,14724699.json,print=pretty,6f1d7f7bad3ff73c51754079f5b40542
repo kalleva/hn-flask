@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 09:11:58 GMT
+content-type: application/json; charset=utf-8
+content-length: 248
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724699.json?print=pretty
+
+{
+  "by" : "dizballanze",
+  "descendants" : 0,
+  "id" : 14724699,
+  "score" : 1,
+  "time" : 1499504330,
+  "title" : "Raise any web exceptions in Django like in AioHTTP",
+  "type" : "story",
+  "url" : "https://github.com/samael500/web-exceptions"
+}

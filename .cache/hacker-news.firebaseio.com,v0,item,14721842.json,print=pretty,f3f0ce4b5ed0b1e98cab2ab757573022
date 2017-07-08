@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:17:04 GMT
+date: Sat, 08 Jul 2017 09:11:50 GMT
 content-type: application/json; charset=utf-8
 content-length: 285
 connection: keep-alive
@@ -13,8 +13,8 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14721842.json?print
   "by" : "alrex021",
   "descendants" : 4,
   "id" : 14721842,
-  "kids" : [ 14724457, 14723859, 14724242 ],
-  "score" : 56,
+  "kids" : [ 14723859, 14724457, 14724242 ],
+  "score" : 60,
   "time" : 1499459728,
   "title" : "Don't Settle for Eventual Consistency (2014)",
   "type" : "story",

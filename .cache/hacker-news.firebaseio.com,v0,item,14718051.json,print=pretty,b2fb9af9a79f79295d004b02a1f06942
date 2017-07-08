@@ -1,6 +1,6 @@
 status: 200
 server: nginx
-date: Sat, 08 Jul 2017 07:23:34 GMT
+date: Sat, 08 Jul 2017 09:11:51 GMT
 content-type: application/json; charset=utf-8
 content-length: 348
 connection: keep-alive
@@ -11,10 +11,10 @@ content-location: https://hacker-news.firebaseio.com/v0/item/14718051.json?print
 
 {
   "by" : "mmcloughlin",
-  "descendants" : 32,
+  "descendants" : 34,
   "id" : 14718051,
   "kids" : [ 14718911, 14718464, 14718506, 14720457, 14718822, 14718837, 14722550, 14720484, 14719043, 14723335 ],
-  "score" : 214,
+  "score" : 218,
   "time" : 1499433260,
   "title" : "Show HN: Globe visualizations in Golang",
   "type" : "story",
