@@ -27,11 +27,11 @@ h = httplib2.Http('.cache')
 
 # fix before prod
 hn_site_links = {
-    'show_url': 'http://127.0.0.1:8000/show',
-    'top_url': 'http://127.0.0.1:8000/',
-    'new_url': 'http://127.0.0.1:8000/newest',
-    'ask_url': 'http://127.0.0.1:8000/ask',
-    'jobs_url': 'http://127.0.0.1:8000/jobs'
+    'show_url': 'https://hn-flask.herokuapp.com/show',
+    'top_url': 'https://hn-flask.herokuapp.com/',
+    'new_url': 'https://hn-flask.herokuapp.com/newest',
+    'ask_url': 'https://hn-flask.herokuapp.com/ask',
+    'jobs_url': 'https://hn-flask.herokuapp.com/jobs'
 }
 
 
