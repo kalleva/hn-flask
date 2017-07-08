@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 311
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724549.json?print=pretty
+
+{
+  "by" : "amogh1",
+  "descendants" : 0,
+  "id" : 14724549,
+  "score" : 1,
+  "time" : 1499499279,
+  "title" : "RED HOLOGRAPHIC PHONE the Hydrogen One Future Ready Phone $1,595",
+  "type" : "story",
+  "url" : "https://www.freshfounder.com/single-post/2017/07/08/RED-HOLOGRAPHIC-PHONE-Future-Ready-Phone-1595"
+}

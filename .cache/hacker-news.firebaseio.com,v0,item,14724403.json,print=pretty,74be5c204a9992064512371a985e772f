@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 250
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724403.json?print=pretty
+
+{
+  "by" : "ingve",
+  "descendants" : 0,
+  "id" : 14724403,
+  "score" : 3,
+  "time" : 1499495713,
+  "title" : "Linux tracing systems and how they fit together",
+  "type" : "story",
+  "url" : "https://jvns.ca/blog/2017/07/05/linux-tracing-systems/"
+}

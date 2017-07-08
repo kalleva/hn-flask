@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 253
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724466.json?print=pretty
+
+{
+  "by" : "lnguyen",
+  "descendants" : 0,
+  "id" : 14724466,
+  "score" : 1,
+  "time" : 1499497118,
+  "title" : "The Golden Age of Bailing",
+  "type" : "story",
+  "url" : "https://mobile.nytimes.com/2017/07/07/opinion/the-golden-age-of-bailing.html?"
+}

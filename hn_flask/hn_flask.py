@@ -25,7 +25,6 @@ hn_api_urls = {
 
 h = httplib2.Http('.cache')
 
-# fix before prod
 hn_site_links = {
     'show_url': 'https://hn-flask.herokuapp.com/show',
     'top_url': 'https://hn-flask.herokuapp.com/',
@@ -118,12 +117,11 @@ def add_properties(stories, start=1):
             story['comments'] = str(len(story['kids']))
         else:
             story['comments'] = '0'
-        # todo: fix no script issue when there is no links, currently hotfix
         if 'url' in story.keys():
             story['site_name'] = urlparse(story['url']).netloc
         else:
             story['url'] = (r'https://news.ycombinator.com/item?id=' +
-                            str(story['id']))  # hotfix
+                            str(story['id']))
             story['site_name'] = ''
     return stories
 

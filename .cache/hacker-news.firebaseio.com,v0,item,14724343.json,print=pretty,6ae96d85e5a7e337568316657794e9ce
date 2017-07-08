@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 334
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724343.json?print=pretty
+
+{
+  "by" : "msh",
+  "descendants" : 0,
+  "id" : 14724343,
+  "score" : 3,
+  "time" : 1499494142,
+  "title" : "Qualcomm’s New Lawsuit Cites Six Patents, Seeks US Sales Ban of Apple Products",
+  "type" : "story",
+  "url" : "http://www.anandtech.com/show/11610/qualcomms-new-lawsuit-cites-six-patents-seeks-apple-sales-ban-in-the-us"
+}

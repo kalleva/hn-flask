@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 264
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724594.json?print=pretty
+
+{
+  "by" : "mrskitch",
+  "descendants" : 0,
+  "id" : 14724594,
+  "score" : 2,
+  "time" : 1499500955,
+  "title" : "Navalia can now get code coverage through headless Chrome",
+  "type" : "story",
+  "url" : "https://joelgriffith.github.io/navalia/Chrome/coverage/"
+}

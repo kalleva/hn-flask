@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 232
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724563.json?print=pretty
+
+{
+  "by" : "tuyguntn",
+  "descendants" : 0,
+  "id" : 14724563,
+  "score" : 1,
+  "time" : 1499499832,
+  "title" : "0day RCE Exploit for Google Chrome 59",
+  "type" : "story",
+  "url" : "https://www.youtube.com/watch?v=pqxCrAkBYno"
+}

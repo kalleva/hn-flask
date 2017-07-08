@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 242
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724329.json?print=pretty
+
+{
+  "by" : "simonfan",
+  "descendants" : 0,
+  "id" : 14724329,
+  "score" : 2,
+  "time" : 1499493873,
+  "title" : "Show HN: Autoretrato – a narcissistic experiment",
+  "type" : "story",
+  "url" : "https://autoretrato.dev.habemus.website/"
+}

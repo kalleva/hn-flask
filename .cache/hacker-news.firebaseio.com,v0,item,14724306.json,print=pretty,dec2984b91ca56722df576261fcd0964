@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 395
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724306.json?print=pretty
+
+{
+  "by" : "a_random_person",
+  "descendants" : 2,
+  "id" : 14724306,
+  "kids" : [ 14724539, 14724476 ],
+  "score" : 2,
+  "time" : 1499493395,
+  "title" : "A stock market game where you invest $50,000 of someone else’s real-life money",
+  "type" : "story",
+  "url" : "https://medium.freecodecamp.org/a-stock-market-game-where-you-invest-50-000-of-someone-elses-real-life-money-4dd98482651b"
+}

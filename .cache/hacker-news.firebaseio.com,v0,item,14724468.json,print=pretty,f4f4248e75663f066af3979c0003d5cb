@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 254
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724468.json?print=pretty
+
+{
+  "by" : "pirocks",
+  "descendants" : 0,
+  "id" : 14724468,
+  "score" : 2,
+  "time" : 1499497137,
+  "title" : "Hackers breached a dozen US nuclear plants, reports say",
+  "type" : "story",
+  "url" : "http://www.bbc.com/news/world-us-canada-40538061"
+}

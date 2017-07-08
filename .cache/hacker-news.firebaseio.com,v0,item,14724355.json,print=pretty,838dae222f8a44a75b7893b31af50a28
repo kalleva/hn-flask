@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 08:07:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 298
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14724355.json?print=pretty
+
+{
+  "by" : "Tours",
+  "descendants" : 0,
+  "id" : 14724355,
+  "score" : 2,
+  "time" : 1499494397,
+  "title" : "10 Must Visit Indian Market for a Great Bargain on Souvenirs – 7toursbd",
+  "type" : "story",
+  "url" : "http://www.7toursbd.com/10-must-visit-indian-market/#.WWB35ZpUcEA.hackernews"
+}
