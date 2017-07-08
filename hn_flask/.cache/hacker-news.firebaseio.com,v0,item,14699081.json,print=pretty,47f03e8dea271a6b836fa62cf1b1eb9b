@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 446
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699081.json?print=pretty
+
+{
+  "by" : "zdw",
+  "descendants" : 138,
+  "id" : 14699081,
+  "kids" : [ 14699290, 14699590, 14701512, 14707353, 14701854, 14699264, 14699219, 14699961, 14700663, 14699526, 14699642, 14699278, 14699192, 14699583, 14699572, 14699265, 14700793 ],
+  "score" : 195,
+  "time" : 1499212608,
+  "title" : "FreeBSD deprecates all r-cmds (rcp, rlogin, etc.)",
+  "type" : "story",
+  "url" : "http://marc.info/?l=freebsd-commits-all&m=149918307723723&w=2"
+}

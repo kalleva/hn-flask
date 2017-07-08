@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 254
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693791.json?print=pretty
+
+{
+  "by" : "thmslee",
+  "descendants" : 0,
+  "id" : 14693791,
+  "score" : 11,
+  "time" : 1499147120,
+  "title" : "4 cool facts you should know about FreeDOS",
+  "type" : "story",
+  "url" : "https://opensource.com/article/17/6/freedos-still-cool-today"
+}

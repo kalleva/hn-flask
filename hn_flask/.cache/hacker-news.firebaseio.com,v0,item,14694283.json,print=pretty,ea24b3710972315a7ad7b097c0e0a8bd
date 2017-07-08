@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 451
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694283.json?print=pretty
+
+{
+  "by" : "chx",
+  "descendants" : 169,
+  "id" : 14694283,
+  "kids" : [ 14696638, 14694829, 14694470, 14694413, 14696629, 14694545, 14694377, 14694404, 14695241, 14705108, 14697500, 14698568, 14697112, 14694454, 14695127, 14694952, 14695055, 14697871, 14694942, 14695437, 14694838, 14696995 ],
+  "score" : 503,
+  "time" : 1499155000,
+  "title" : "Gitter is open source",
+  "type" : "story",
+  "url" : "https://gitlab.com/gitlab-org/gitter/webapp/"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:04 GMT
+content-type: application/json; charset=utf-8
+content-length: 349
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14696619.json?print=pretty
+
+{
+  "by" : "avyfain",
+  "descendants" : 32,
+  "id" : 14696619,
+  "kids" : [ 14721177, 14721737, 14720717, 14724157, 14722440, 14721795, 14720914 ],
+  "score" : 51,
+  "time" : 1499184330,
+  "title" : "Is social graph portability workable?",
+  "type" : "story",
+  "url" : "http://www.digitopoly.org/2017/07/03/is-social-graph-portability-workable/"
+}

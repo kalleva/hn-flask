@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:54 GMT
+content-type: application/json; charset=utf-8
+content-length: 256
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717569.json?print=pretty
+
+{
+  "by" : "jacquesm",
+  "descendants" : 1,
+  "id" : 14717569,
+  "kids" : [ 14721348 ],
+  "score" : 8,
+  "time" : 1499426503,
+  "title" : "Automated Investigator",
+  "type" : "story",
+  "url" : "http://www.gperco.com/2014/04/automated-investigator.html"
+}

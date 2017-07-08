@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 20:15:50 GMT
+content-type: application/json; charset=utf-8
+content-length: 325
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697456.json?print=pretty
+
+{
+  "by" : "cremno",
+  "descendants" : 17,
+  "id" : 14697456,
+  "kids" : [ 14697991, 14697640, 14697599, 14697519, 14697551, 14697938 ],
+  "score" : 61,
+  "time" : 1499192874,
+  "title" : "2bit Astrophotography with the Game Boy Camera",
+  "type" : "story",
+  "url" : "http://home.strw.leidenuniv.nl/~pietrow/astrogb.html"
+}

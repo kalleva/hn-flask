@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 330
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695268.json?print=pretty
+
+{
+  "by" : "technion",
+  "descendants" : 44,
+  "id" : 14695268,
+  "kids" : [ 14697577, 14697026, 14697393, 14697218, 14697547, 14697063, 14697410, 14697446, 14697434, 14697562 ],
+  "score" : 84,
+  "time" : 1499169068,
+  "title" : "The bloat of AMP",
+  "type" : "story",
+  "url" : "https://lolware.net/2017/07/04/amp-bloat.html"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:31 GMT
+content-type: application/json; charset=utf-8
+content-length: 310
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721505.json?print=pretty
+
+{
+  "by" : "ahubert",
+  "descendants" : 0,
+  "id" : 14721505,
+  "score" : 2,
+  "time" : 1499457101,
+  "title" : "(Don’t) drop the hint: communicating with technical people",
+  "type" : "story",
+  "url" : "https://medium.com/@bert.hubert/dont-drop-the-hint-communicating-with-technical-people-4539d43b6b4f"
+}

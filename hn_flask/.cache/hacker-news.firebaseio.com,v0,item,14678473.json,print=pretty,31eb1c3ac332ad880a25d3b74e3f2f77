@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:09 GMT
+content-type: application/json; charset=utf-8
+content-length: 666
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14678473.json?print=pretty
+
+{
+  "by" : "coderholic",
+  "descendants" : 130,
+  "id" : 14678473,
+  "kids" : [ 14679567, 14681261, 14678652, 14678639, 14681098, 14679046, 14681391, 14681118, 14681390, 14679025, 14678689, 14678801, 14680635, 14678681, 14680090, 14678628, 14681105, 14679463, 14678538, 14678790, 14680540, 14678877, 14678839, 14681028, 14679189, 14678676, 14679490, 14678641, 14679094, 14679604, 14679089, 14679187, 14679402, 14680055 ],
+  "score" : 366,
+  "time" : 1498936313,
+  "title" : "How I Took an API Side Project to 250M Daily Requests",
+  "type" : "story",
+  "url" : "https://blog.ipinfo.io/api-side-project-to-250-million-requests-with-0-marketing-budget-bb0de01c01f6"
+}

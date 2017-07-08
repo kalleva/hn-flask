@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:56:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 255
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14698702.json?print=pretty
+
+{
+  "by" : "drumnix",
+  "descendants" : 0,
+  "id" : 14698702,
+  "score" : 2,
+  "time" : 1499206788,
+  "title" : "Show HN: Shared Media Tagger – build ratings sites with wikimedia commons media",
+  "type" : "story",
+  "url" : "http://fosiper.com/smt/"
+}

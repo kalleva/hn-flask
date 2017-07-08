@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:53 GMT
+content-type: application/json; charset=utf-8
+content-length: 299
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703543.json?print=pretty
+
+{
+  "by" : "k4rtik",
+  "descendants" : 16,
+  "id" : 14703543,
+  "kids" : [ 14719077, 14719011, 14720857, 14720918 ],
+  "score" : 57,
+  "time" : 1499270586,
+  "title" : "Lessons learned building a toy compiler",
+  "type" : "story",
+  "url" : "https://jaseemabid.github.io/2017/07/04/compiler.html"
+}

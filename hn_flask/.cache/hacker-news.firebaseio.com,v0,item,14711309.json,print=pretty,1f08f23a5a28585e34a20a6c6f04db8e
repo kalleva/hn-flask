@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:24:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 198
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711309.json?print=pretty
+
+{
+  "by" : "mindrun",
+  "descendants" : 0,
+  "id" : 14711309,
+  "score" : 1,
+  "time" : 1499356509,
+  "title" : "Now Desktop 2",
+  "type" : "story",
+  "url" : "https://zeit.co/blog/now-desktop-2"
+}

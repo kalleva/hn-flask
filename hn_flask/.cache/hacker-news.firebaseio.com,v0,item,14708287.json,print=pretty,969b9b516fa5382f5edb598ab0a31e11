@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 375
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708287.json?print=pretty
+
+{
+  "by" : "andrew_dp",
+  "descendants" : 2,
+  "id" : 14708287,
+  "kids" : [ 14709637, 14709910 ],
+  "score" : 3,
+  "text" : "Assumption is that both parties are NOT recruiters, what is the accepted next steps once two people have viewed each other?",
+  "time" : 1499318027,
+  "title" : "Ask HN: What is the etiquette after mutual stalking on LinkedIn",
+  "type" : "story"
+}

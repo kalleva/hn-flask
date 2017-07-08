@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 307
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14669919.json?print=pretty
+
+{
+  "by" : "submiter_dor",
+  "descendants" : 2,
+  "id" : 14669919,
+  "kids" : [ 14670480 ],
+  "score" : 13,
+  "time" : 1498821520,
+  "title" : "Edge cases to keep in mind when working with text",
+  "type" : "story",
+  "url" : "https://www.thedroidsonroids.com/blog/edge-cases-to-keep-in-mind-part-1-text"
+}

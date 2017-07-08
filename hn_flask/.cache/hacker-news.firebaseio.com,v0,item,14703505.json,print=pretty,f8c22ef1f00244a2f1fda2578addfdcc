@@ -1,0 +1,20 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 220
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703505.json?print=pretty
+
+{
+  "by" : "opticalflow",
+  "descendants" : 0,
+  "id" : 14703505,
+  "score" : 1,
+  "time" : 1499270338,
+  "title" : "Ask HN: Testing recursive reasoning a fair test for a CV engineering interview?",
+  "type" : "story"
+}

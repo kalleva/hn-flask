@@ -1,0 +1,20 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 252
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14692580.json?print=pretty
+
+{
+  "by" : "ei8htyfi5e",
+  "id" : 14692580,
+  "score" : 1,
+  "time" : 1499128390,
+  "title" : "HiOperator (YC S16) is hiring our first engineer",
+  "type" : "job",
+  "url" : "https://angel.co/hioperator/jobs/193990-first-engineering-hire-full-stack"
+}

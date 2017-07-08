@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:30 GMT
+content-type: application/json; charset=utf-8
+content-length: 383
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14692244.json?print=pretty
+
+{
+  "by" : "technion",
+  "descendants" : 3,
+  "id" : 14692244,
+  "kids" : [ 14692983 ],
+  "score" : 9,
+  "time" : 1499124805,
+  "title" : "The Medicare machine: patient details of 'any Australian' for sale on darknet",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/australia-news/2017/jul/04/the-medicare-machine-patient-details-of-any-australian-for-sale-on-darknet"
+}

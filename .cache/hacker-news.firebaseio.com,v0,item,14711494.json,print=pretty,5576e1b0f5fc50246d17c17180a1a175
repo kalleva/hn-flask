@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 370
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711494.json?print=pretty
+
+{
+  "by" : "aeto",
+  "descendants" : 4,
+  "id" : 14711494,
+  "kids" : [ 14711497, 14713102, 14712560 ],
+  "score" : 6,
+  "time" : 1499358014,
+  "title" : "Show HN: Harvest, the easiest way to grow your mind (spaced repetition learning)",
+  "type" : "story",
+  "url" : "https://chrome.google.com/webstore/detail/harvest-grow-your-mind/dejecgndbecimagkaefkfdaedaimamji"
+}

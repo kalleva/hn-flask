@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 468
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14691042.json?print=pretty
+
+{
+  "by" : "wonderwonder",
+  "descendants" : 3,
+  "id" : 14691042,
+  "kids" : [ 14691493, 14693676, 14692711, 14693677 ],
+  "score" : 2,
+  "text" : "Using PHP as development language. Both individual and subscriptions. I already use Stripe to handle credit cards. I don&#x27;t want to use Stripe for ACH as it appears there is a $500 &#x2F; month fee.",
+  "time" : 1499112744,
+  "title" : "Ask HN: What API provider do you use to take e-checks?",
+  "type" : "story"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 275
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711669.json?print=pretty
+
+{
+  "by" : "someear",
+  "descendants" : 0,
+  "id" : 14711669,
+  "score" : 11,
+  "time" : 1499359140,
+  "title" : "Building an analytics and reporting stack in 2017",
+  "type" : "story",
+  "url" : "https://reflect.io/blog/building-an-analytics-and-reporting-stack-in-2017/"
+}

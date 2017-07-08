@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 277
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697490.json?print=pretty
+
+{
+  "by" : "avdicius",
+  "descendants" : 3,
+  "id" : 14697490,
+  "kids" : [ 14698154 ],
+  "score" : 21,
+  "time" : 1499193243,
+  "title" : "Show HN: MainMemory – Wannabe Main Memory Database and More",
+  "type" : "story",
+  "url" : "https://github.com/ademakov/MainMemory"
+}

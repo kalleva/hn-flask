@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:21 GMT
+content-type: application/json; charset=utf-8
+content-length: 228
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711466.json?print=pretty
+
+{
+  "by" : "ComodoHacker",
+  "descendants" : 0,
+  "id" : 14711466,
+  "score" : 1,
+  "time" : 1499357722,
+  "title" : "Is It Pokemon or Big Data?",
+  "type" : "story",
+  "url" : "https://pixelastic.github.io/pokemonorbigdata/"
+}

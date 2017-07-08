@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 449
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701380.json?print=pretty
+
+{
+  "by" : "Yellow_Boat",
+  "descendants" : 79,
+  "id" : 14701380,
+  "kids" : [ 14702413, 14702217, 14701640, 14705877, 14701632, 14703275, 14701786, 14703256, 14702963, 14702768 ],
+  "score" : 113,
+  "time" : 1499252242,
+  "title" : "US Lifts Laptop Ban on Etihad, Emirates and Turkish Airlines",
+  "type" : "story",
+  "url" : "https://techcrunch.com/2017/07/05/us-lifts-laptop-ban-on-airline-passengers-flying-with-etihad-emirates-and-turkish/"
+}

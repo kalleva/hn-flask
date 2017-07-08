@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 374
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711769.json?print=pretty
+
+{
+  "by" : "endswapper",
+  "descendants" : 1,
+  "id" : 14711769,
+  "kids" : [ 14711774 ],
+  "score" : 1,
+  "time" : 1499359724,
+  "title" : "VC Aileen Lee, specific advice to female founders looking for funding",
+  "type" : "story",
+  "url" : "https://techcrunch.com/2017/07/03/vc-aileen-lee-just-offered-some-very-specific-advice-to-female-founders-looking-for-funding/"
+}

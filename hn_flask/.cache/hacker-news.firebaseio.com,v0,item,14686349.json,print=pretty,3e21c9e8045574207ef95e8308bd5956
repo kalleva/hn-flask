@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 230
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686349.json?print=pretty
+
+{
+  "by" : "cpp_developer",
+  "descendants" : 2,
+  "id" : 14686349,
+  "kids" : [ 14688373, 14692677 ],
+  "score" : 5,
+  "time" : 1499064465,
+  "title" : "Ask HN: Any good website/ references for tech talks?",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:09 GMT
+content-type: application/json; charset=utf-8
+content-length: 308
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14680457.json?print=pretty
+
+{
+  "by" : "ianrtracey",
+  "descendants" : 27,
+  "id" : 14680457,
+  "kids" : [ 14681113, 14681424, 14680932, 14681119, 14680924, 14680711 ],
+  "score" : 92,
+  "time" : 1498961773,
+  "title" : "What’s in a Continuation (2016)",
+  "type" : "story",
+  "url" : "http://jlongster.com/Whats-in-a-Continuation"
+}

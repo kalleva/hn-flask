@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 840
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14690140.json?print=pretty
+
+{
+  "by" : "crouchingtigerr",
+  "descendants" : 3,
+  "id" : 14690140,
+  "kids" : [ 14691162, 14690391 ],
+  "score" : 6,
+  "text" : "Do you guys enjoy most mainstream sites for coding questions like leetcode, hackerearth, interview bit etc. I feel that it is difficult to learn from as the solutions can be hard to understand and some problems are hard to visualize. Do you guys have any similar problems with these sites or any ways they can be made better?<p>I ask because I was thinking about starting my own prep site, that included much more tutorials and giving you harder questions step by step. I just wanted to gather your guys thoughts on what can be made better about the process of interview preparation learning.",
+  "time" : 1499104516,
+  "title" : "Collecting feedback on Algorithms/Interview Prep site",
+  "type" : "story"
+}

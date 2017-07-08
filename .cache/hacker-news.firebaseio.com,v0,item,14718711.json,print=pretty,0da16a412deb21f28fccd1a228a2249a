@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:53 GMT
+content-type: application/json; charset=utf-8
+content-length: 646
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14718711.json?print=pretty
+
+{
+  "by" : "jonas21",
+  "descendants" : 104,
+  "id" : 14718711,
+  "kids" : [ 14719168, 14721595, 14719084, 14720237, 14719174, 14720747, 14719160, 14719100, 14720822, 14719723, 14719277, 14719439, 14719544, 14719741, 14719613, 14720599, 14719207, 14719021, 14719405, 14719766, 14719560, 14719428, 14719595, 14719254, 14719853, 14719319, 14719095, 14719403, 14719179, 14719561 ],
+  "score" : 101,
+  "time" : 1499438708,
+  "title" : "Comma.ai launches an $88 universal car interface called Panda",
+  "type" : "story",
+  "url" : "https://techcrunch.com/2017/07/07/comma-ai-launches-an-88-universal-car-interface-called-panda/?ncid=mobilenavtrend"
+}

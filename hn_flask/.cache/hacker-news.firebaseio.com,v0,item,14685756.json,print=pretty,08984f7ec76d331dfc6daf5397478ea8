@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 1706
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14685756.json?print=pretty
+
+{
+  "by" : "ye55gi5",
+  "descendants" : 78,
+  "id" : 14685756,
+  "kids" : [ 14685815, 14685850, 14685847, 14685929, 14685961, 14685852, 14685976, 14685864, 14685879, 14685931, 14685884, 14685814, 14685831, 14685974, 14685979, 14685887, 14686294, 14685833, 14685982, 14685928, 14687454, 14693413, 14689725, 14688195, 14685980, 14685820, 14686001, 14687026, 14685845, 14685978, 14688478, 14689261, 14696021, 14685905, 14687817, 14693313, 14685933, 14687580, 14685898, 14685860, 14685817, 14685925, 14686303, 14685966, 14685971 ],
+  "score" : 61,
+  "text" : "I am angry at myself for being stupid. I worked for 70+ hrs a week for one year and built a new groundbreaking platform. During my recent conversation with my manager, he told me it&#x27;s not enough for promotion and we should wait. I did my best to convince him. \nI am wondering what did I do wrong? Quite frequently I get walked over by people. Although I am good at workplace politics I am not best. I am baffled that men and women who are underperforming are going to be put for promotion. I know first hand two people who have caused delays in projects are going to be considered. All they have is probably strong connection with their managers.<p>How do you navigate workplace politics and getting ahead in the career? Changing job is one option but how long I can keep running from situation?\nAlso,given the state of technical interview and irrationality to ask any irrelevant question, I don&#x27;t know if I wanna go through it again anytime soon.<p>What do I need to do to move ahead and up in the career?",
+  "time" : 1499054588,
+  "title" : "Ask HN: After working 70+ hrs a week my manager says no for promotion",
+  "type" : "story"
+}

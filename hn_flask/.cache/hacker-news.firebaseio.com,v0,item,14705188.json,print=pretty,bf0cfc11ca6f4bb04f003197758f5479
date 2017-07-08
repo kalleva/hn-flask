@@ -1,0 +1,20 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 1400
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705188.json?print=pretty
+
+{
+  "by" : "deepakb358",
+  "id" : 14705188,
+  "score" : 1,
+  "text" : "We build a new type of coffee machine that experts are calling it the &#x27;holy grail&#x27; of coffee. It starts with raw green coffee beans and roasts, grinds, and brews every cup personalized to you in a moment. No waste, no cleanup, a natural fiber compostable capsule, and it fits on your kitchen countertop. It does far more - changing the entire supply chain of coffee, benefiting farmers and consumers, and making coffee with the nuance and sophistication of wine. Check our website and video at: www.sevacoffee.com<p>Looking for a Head of Sales with at least 10 years experience in consumer electronics sales; experience in launching new products or companies; experience in closing strategic relationship deals; experience in both online and offline sales; experience building and leading sales organizations.<p>If this speaks to you, reach out to deepak at sevacoffee.com with your resume and more.<p>A recent blog post: <a href=\"https:&#x2F;&#x2F;medium.com&#x2F;@SevaCoffee&#x2F;the-quest-for-the-ultimate-cup-of-coffee-solving-the-coffee-capsule-problem-d30a08656822\" rel=\"nofollow\">https:&#x2F;&#x2F;medium.com&#x2F;@SevaCoffee&#x2F;the-quest-for-the-ultimate-cu...</a>",
+  "time" : 1499281097,
+  "title" : "Seva Coffee (YC) – building the future of coffee – is hiring a head of sales",
+  "type" : "job"
+}

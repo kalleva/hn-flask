@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:27 GMT
+content-type: application/json; charset=utf-8
+content-length: 1669
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701314.json?print=pretty
+
+{
+  "by" : "hubrixco",
+  "descendants" : 0,
+  "id" : 14701314,
+  "score" : 2,
+  "text" : "Hi all,<p>I am soliciting answers to the 2017 Hubrix API Developers’ Survey. We are creating open source APIs, but in order to spend our time wisely and build APIs that will truly help you to deliver apps faster, we need your input. We will be releasing the survey results as Open Data, so all will benefit (you can opt in to be notified of the survey results in the survey form itself).<p>If you design, build, consume or are involved in any way with REST or GraphQL APIs, then you are the kind of person we hope will complete the survey.<p>The Survey has 30-35 questions and takes 5-6 minutes to complete, depending on how quick you are.<p>I’d also appreciate it if you could share the survey link with your API-building or API-consuming developer&#x2F;devops friends &amp; colleagues.<p>The survey will close 31 July 2017. We will post the results ASAP in early August.<p>If you have any questions, suggestions for improvements, or questions you think should be included in future surveys, please send them my way.<p>Survey (on TypeForm): https:&#x2F;&#x2F;hbr.li&#x2F;surv2017<p>Thank you.<p>Daniel from Hubrix.<p>P.S. I am trying to collect data of general interest to (a specific subset of) the hacker community. I do this with humility, good will and love in my heart. But I’m a noob on HN. If I’ve overstepped in any way, please let me know and I will delete &#x2F; take down this post ASAP, or otherwise do as instructed by someone with admin&#x2F;oversight.",
+  "time" : 1499251298,
+  "title" : "Seeking API developers to complete survey",
+  "type" : "story"
+}

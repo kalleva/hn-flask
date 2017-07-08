@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 569
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721920.json?print=pretty
+
+{
+  "by" : "vgt",
+  "descendants" : 84,
+  "id" : 14721920,
+  "kids" : [ 14723270, 14724125, 14723228, 14723410, 14724450, 14723221, 14723316, 14723621, 14723834, 14723800, 14723423, 14723258, 14723839, 14723131, 14723196, 14723808, 14723451, 14723957, 14723937, 14723952, 14723824, 14723521, 14723495, 14723608, 14723746, 14723538, 14723856, 14724126 ],
+  "score" : 129,
+  "time" : 1499460327,
+  "title" : "There are very few suitable use cases for DynamoDB",
+  "type" : "story",
+  "url" : "https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca"
+}

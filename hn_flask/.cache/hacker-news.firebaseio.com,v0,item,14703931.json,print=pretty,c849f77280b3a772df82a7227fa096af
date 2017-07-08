@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 08:44:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 333
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703931.json?print=pretty
+
+{
+  "by" : "darwhy",
+  "descendants" : 48,
+  "id" : 14703931,
+  "kids" : [ 14706858, 14707719, 14706014, 14706819, 14706350, 14706278, 14707750 ],
+  "score" : 149,
+  "time" : 1499272925,
+  "title" : "Rust's 2017 roadmap, six months in",
+  "type" : "story",
+  "url" : "http://blog.rust-lang.org/2017/07/05/Rust-Roadmap-Update.html"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 343
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701455.json?print=pretty
+
+{
+  "by" : "yread",
+  "descendants" : 1,
+  "id" : 14701455,
+  "kids" : [ 14702106 ],
+  "score" : 11,
+  "time" : 1499253346,
+  "title" : "She took on Tesla for discrimination. Now others are speaking up",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/technology/2017/jul/05/tesla-sexual-harassment-discrimination-engineer-fired"
+}

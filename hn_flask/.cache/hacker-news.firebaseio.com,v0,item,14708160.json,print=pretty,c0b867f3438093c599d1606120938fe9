@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 08:43:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 349
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708160.json?print=pretty
+
+{
+  "by" : "insulanian",
+  "descendants" : 37,
+  "id" : 14708160,
+  "kids" : [ 14708508, 14708383, 14708618, 14708397, 14708356, 14708545 ],
+  "score" : 52,
+  "time" : 1499315833,
+  "title" : "Three New Open Source Container Utilities",
+  "type" : "story",
+  "url" : "https://blogs.oracle.com/developers/three-new-open-source-container-utilities"
+}

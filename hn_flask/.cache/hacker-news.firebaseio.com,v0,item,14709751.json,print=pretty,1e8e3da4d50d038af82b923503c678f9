@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:50 GMT
+content-type: application/json; charset=utf-8
+content-length: 459
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709751.json?print=pretty
+
+{
+  "by" : "rbanffy",
+  "descendants" : 112,
+  "id" : 14709751,
+  "kids" : [ 14710276, 14709868, 14709772, 14709909, 14709788, 14710597, 14710069, 14710765, 14709890, 14709830, 14710007, 14709780, 14710457 ],
+  "score" : 148,
+  "time" : 1499343182,
+  "title" : "France to end sales of new petrol and diesel vehicles by 2040",
+  "type" : "story",
+  "url" : "http://www.independent.co.uk/environment/france-petrol-diesel-ban-vehicles-cars-2040-a7826831.html"
+}

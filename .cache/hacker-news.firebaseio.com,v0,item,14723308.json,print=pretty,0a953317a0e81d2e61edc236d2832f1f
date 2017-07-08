@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 410
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14723308.json?print=pretty
+
+{
+  "by" : "songzme",
+  "descendants" : 112,
+  "id" : 14723308,
+  "kids" : [ 14723598, 14723594, 14723485, 14724292, 14723517, 14723649, 14723628, 14723494, 14723897, 14723771, 14723739, 14723709, 14723950, 14723508, 14724001, 14724003, 14723519, 14723543, 14723504 ],
+  "score" : 354,
+  "time" : 1499473013,
+  "title" : "What Is Ethereum?",
+  "type" : "story",
+  "url" : "http://whatthefuckisethereum.com/"
+}

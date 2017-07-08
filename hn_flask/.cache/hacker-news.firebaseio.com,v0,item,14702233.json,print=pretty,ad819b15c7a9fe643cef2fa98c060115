@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 14:06:09 GMT
+content-type: application/json; charset=utf-8
+content-length: 349
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702233.json?print=pretty
+
+{
+  "by" : "happy-go-lucky",
+  "descendants" : 89,
+  "id" : 14702233,
+  "kids" : [ 14706212, 14705527, 14708942, 14705800, 14707322, 14706003, 14707665, 14705802, 14705335, 14707270 ],
+  "score" : 196,
+  "time" : 1499261651,
+  "title" : "What the brain's wiring looks like",
+  "type" : "story",
+  "url" : "http://www.bbc.com/news/health-40488545"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 335
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14685677.json?print=pretty
+
+{
+  "by" : "dmjio",
+  "descendants" : 25,
+  "id" : 14685677,
+  "kids" : [ 14690659, 14692351, 14693698, 14690862, 14691984, 14692141, 14690785, 14694643, 14688095 ],
+  "score" : 113,
+  "time" : 1499053011,
+  "title" : "Show HN: Miso – A Haskell implementation of Elm",
+  "type" : "story",
+  "url" : "https://github.com/dmjio/miso"
+}

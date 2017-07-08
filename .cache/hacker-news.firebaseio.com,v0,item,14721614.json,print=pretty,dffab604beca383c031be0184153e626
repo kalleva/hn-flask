@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:29 GMT
+content-type: application/json; charset=utf-8
+content-length: 217
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721614.json?print=pretty
+
+{
+  "by" : "usgroup",
+  "descendants" : 0,
+  "id" : 14721614,
+  "score" : 1,
+  "time" : 1499457945,
+  "title" : "Existential Crisis",
+  "type" : "story",
+  "url" : "https://en.wikipedia.org/wiki/Existential_crisis"
+}

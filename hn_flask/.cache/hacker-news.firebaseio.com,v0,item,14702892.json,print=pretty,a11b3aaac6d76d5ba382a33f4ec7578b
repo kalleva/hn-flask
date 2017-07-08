@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 609
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702892.json?print=pretty
+
+{
+  "by" : "ssabev",
+  "descendants" : 0,
+  "id" : 14702892,
+  "score" : 2,
+  "text" : "TravelNest is hiring Software Engineers and UX designers in Edinburgh, Scotland. There are 20 of us and we just closed our seed round today.<p>We are looking to hire as many developers and designers as we can in order to make it super easy for people to market their properties on all channels.<p>For more information and to apply please send a CV over to ben@travelnest.com with HN:Apply in the title.",
+  "time" : 1499266840,
+  "title" : "TravelNest Is Hiring Software Engineers in Edinburgh, UK",
+  "type" : "story"
+}

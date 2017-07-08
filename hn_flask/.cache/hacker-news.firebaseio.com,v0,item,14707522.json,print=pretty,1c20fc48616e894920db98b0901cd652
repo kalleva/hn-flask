@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 427
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14707522.json?print=pretty
+
+{
+  "by" : "Mahn",
+  "descendants" : 1,
+  "id" : 14707522,
+  "kids" : [ 14707538 ],
+  "score" : 1,
+  "text" : "Facebook apps and building on facebook were all the rage when they were announced over a decade ago, but nowadays it&#x27;s very rarely talked about. Are there people out there still building Facebook Apps?",
+  "time" : 1499304366,
+  "title" : "Ask HN: What happened to the Facebook Platform?",
+  "type" : "story"
+}

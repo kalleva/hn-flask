@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:40 GMT
+content-type: application/json; charset=utf-8
+content-length: 783
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694189.json?print=pretty
+
+{
+  "by" : "baddox",
+  "descendants" : 1,
+  "id" : 14694189,
+  "kids" : [ 14695406 ],
+  "score" : 6,
+  "text" : "I remember when omegle could actually yield some interesting conversations, although there were always a fair share of bots and ne&#x27;er-do-wells. Is there anywhere to have random conversations with mostly real, well-meaning humans?<p>I suppose it&#x27;s a pretty hard problem to make such an app, since it needs to be popular enough to have active users, which means the bots are going to try. You could use some quasi-real-life identity (like Facebook), but many people probably want anonymity and wouldn&#x27;t trust that.",
+  "time" : 1499153359,
+  "title" : "Ask HN: Is there a random chat site (like omegle) that isn't taken over by bots?",
+  "type" : "story"
+}

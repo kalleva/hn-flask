@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 604
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14687994.json?print=pretty
+
+{
+  "by" : "doener",
+  "descendants" : 72,
+  "id" : 14687994,
+  "kids" : [ 14688283, 14689174, 14688450, 14688356, 14689672, 14688385, 14689592, 14688160, 14688186, 14688199, 14688249, 14688240, 14690268, 14688241, 14688242, 14688167, 14688168, 14688301 ],
+  "score" : 121,
+  "time" : 1499087927,
+  "title" : "Websites offering pirated papers are shaking up science",
+  "type" : "story",
+  "url" : "http://www.economist.com/news/science-and-technology/21724381-musicians-and-moviemakers-are-not-only-ones-suffer-internet?fsrc=scn%2Ftw%2Fte%2Fbl%2Fed%2Fwebsitesofferingpiratedpapersareshakingupscience"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:37 GMT
+content-type: application/json; charset=utf-8
+content-length: 258
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14715181.json?print=pretty
+
+{
+  "by" : "eapotapov",
+  "descendants" : 2,
+  "id" : 14715181,
+  "kids" : [ 14715195 ],
+  "score" : 9,
+  "time" : 1499388651,
+  "title" : "Show HN: Isolate – 2FA(OTP) SSH bastion host",
+  "type" : "story",
+  "url" : "https://github.com/itsumma/isolate"
+}

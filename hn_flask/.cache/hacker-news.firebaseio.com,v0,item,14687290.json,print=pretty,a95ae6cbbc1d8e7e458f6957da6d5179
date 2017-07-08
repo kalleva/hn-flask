@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:45:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 352
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14687290.json?print=pretty
+
+{
+  "by" : "fanf2",
+  "descendants" : 30,
+  "id" : 14687290,
+  "kids" : [ 14691016, 14689938, 14691770, 14691108, 14693342, 14692221, 14692298, 14690940 ],
+  "score" : 186,
+  "time" : 1499078583,
+  "title" : "Galois Theory for Beginners (2010) [pdf]",
+  "type" : "story",
+  "url" : "http://www.math.jhu.edu/~smahanta/Teaching/Spring10/Stillwell.pdf"
+}

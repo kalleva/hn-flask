@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:19 GMT
+content-type: application/json; charset=utf-8
+content-length: 265
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711550.json?print=pretty
+
+{
+  "by" : "tamalsaha001",
+  "descendants" : 1,
+  "id" : 14711550,
+  "kids" : [ 14711554 ],
+  "score" : 1,
+  "time" : 1499358383,
+  "title" : "G2 – a modern implementation of Gearman server in GO",
+  "type" : "story",
+  "url" : "https://github.com/appscode/g2"
+}

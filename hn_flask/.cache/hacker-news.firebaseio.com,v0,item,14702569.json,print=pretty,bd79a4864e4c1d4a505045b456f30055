@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 234
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702569.json?print=pretty
+
+{
+  "by" : "larrysalibra",
+  "descendants" : 3,
+  "id" : 14702569,
+  "kids" : [ 14708732, 14708904, 14704543 ],
+  "score" : 13,
+  "time" : 1499264339,
+  "title" : "Ask HN: Do You Prefer Typescript or Flow? Why?",
+  "type" : "story"
+}

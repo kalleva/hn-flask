@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 20:15:50 GMT
+content-type: application/json; charset=utf-8
+content-length: 492
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697561.json?print=pretty
+
+{
+  "by" : "curtis",
+  "descendants" : 19,
+  "id" : 14697561,
+  "kids" : [ 14697946, 14698007, 14697972, 14697716, 14697920, 14697988, 14697969, 14697863, 14697970, 14697680, 14697796, 14697695, 14697706, 14697726 ],
+  "score" : 29,
+  "time" : 1499194214,
+  "title" : "An old idea to make cities more pedestrian-friendly: pedestrian scrambles",
+  "type" : "story",
+  "url" : "http://www.governing.com/topics/transportation-infrastructure/gov-pedestrian-scramble-diagonal-barnes-dance.html"
+}

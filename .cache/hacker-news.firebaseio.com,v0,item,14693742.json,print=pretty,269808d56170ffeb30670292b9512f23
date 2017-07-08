@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 343
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693742.json?print=pretty
+
+{
+  "by" : "cylix",
+  "descendants" : 34,
+  "id" : 14693742,
+  "kids" : [ 14695605, 14694072, 14696540, 14694261, 14694128, 14695011, 14694889, 14696216, 14694589 ],
+  "score" : 66,
+  "time" : 1499146247,
+  "title" : "Show HN: Cpp_Redis – C++11 Lightweight Redis client",
+  "type" : "story",
+  "url" : "https://github.com/Cylix/cpp_redis"
+}

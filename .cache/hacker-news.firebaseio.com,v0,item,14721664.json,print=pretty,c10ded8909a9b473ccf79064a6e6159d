@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 625
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721664.json?print=pretty
+
+{
+  "by" : "tbodt",
+  "descendants" : 0,
+  "id" : 14721664,
+  "score" : 1,
+  "text" : "If you download the discord client, unpack it, and look in the bootstrap folder (which should be next to the app.asar folder), you&#x27;ll find discord_rpc.zip. Unpack that, look in data, and you&#x27;ll find this_is_not_a_security_issue.{crt,key} which is the public and private key for an HTTPS certificate for *.discordapp.io, which is a domain that resolves to 127.0.0.1. This could be useful for testing HTTPS on localhost.",
+  "time" : 1499458340,
+  "title" : "Where to get an HTTPS certificate for localhost",
+  "type" : "story"
+}

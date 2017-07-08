@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 459
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686277.json?print=pretty
+
+{
+  "by" : "testcross",
+  "descendants" : 99,
+  "id" : 14686277,
+  "kids" : [ 14689100, 14687798, 14687872, 14688085, 14688384, 14687788, 14687720, 14689036, 14697963, 14688323, 14688013, 14688067, 14689316, 14689045, 14687838, 14690072, 14697953, 14687634, 14688051, 14687875 ],
+  "score" : 576,
+  "time" : 1499063636,
+  "title" : "I found a bug in Intel Skylake processors",
+  "type" : "story",
+  "url" : "http://gallium.inria.fr/blog/intel-skylake-bug/"
+}

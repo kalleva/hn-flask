@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:13 GMT
+content-type: application/json; charset=utf-8
+content-length: 330
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14669333.json?print=pretty
+
+{
+  "by" : "pmuk",
+  "descendants" : 0,
+  "id" : 14669333,
+  "score" : 6,
+  "time" : 1498811188,
+  "title" : "3D printers start to build factories of the future",
+  "type" : "story",
+  "url" : "http://www.economist.com/news/briefing/21724368-recent-advances-make-3d-printing-powerful-competitor-conventional-mass-production-3d"
+}

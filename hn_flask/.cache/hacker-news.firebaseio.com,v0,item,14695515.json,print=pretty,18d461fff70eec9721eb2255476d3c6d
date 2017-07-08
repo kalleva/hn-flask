@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:29 GMT
+content-type: application/json; charset=utf-8
+content-length: 508
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695515.json?print=pretty
+
+{
+  "by" : "salad77",
+  "descendants" : 96,
+  "id" : 14695515,
+  "kids" : [ 14696201, 14696098, 14696244, 14696332, 14696621, 14696782, 14696882, 14696146, 14696498, 14696307, 14696542, 14696591, 14696441, 14696647, 14696509, 14696289 ],
+  "score" : 69,
+  "time" : 1499172331,
+  "title" : "Small ads sex trafficking: the battle against Backpage",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/global-development/2017/jul/02/fight-for-my-daughter-battle-against-backpage-child-sex-trafficking"
+}

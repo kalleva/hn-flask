@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 15:18:14 GMT
+content-type: application/json; charset=utf-8
+content-length: 367
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14707300.json?print=pretty
+
+{
+  "by" : "sohkamyung",
+  "descendants" : 33,
+  "id" : 14707300,
+  "kids" : [ 14707979, 14708230, 14707992, 14707971 ],
+  "score" : 51,
+  "time" : 1499300891,
+  "title" : "Under the Hood of Luminar's Long-Reach Lidar",
+  "type" : "story",
+  "url" : "http://spectrum.ieee.org/cars-that-think/transportation/self-driving/under-the-hood-of-luminars-long-reach-lidar"
+}

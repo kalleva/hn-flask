@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 275
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14688357.json?print=pretty
+
+{
+  "by" : "kblomqvist",
+  "descendants" : 1,
+  "id" : 14688357,
+  "kids" : [ 14688377 ],
+  "score" : 4,
+  "time" : 1499091070,
+  "title" : "Show HN: Yasha--A command-line tool to render Jinja templates",
+  "type" : "story",
+  "url" : "https://github.com/kblomqvist/yasha"
+}

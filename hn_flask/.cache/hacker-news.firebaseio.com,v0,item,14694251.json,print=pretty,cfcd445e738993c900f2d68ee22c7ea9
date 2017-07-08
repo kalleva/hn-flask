@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 284
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694251.json?print=pretty
+
+{
+  "by" : "kostyay",
+  "descendants" : 6,
+  "id" : 14694251,
+  "kids" : [ 14694253, 14701190 ],
+  "score" : 8,
+  "time" : 1499154360,
+  "title" : "Show HN: PriceCompare.bike – Find cheap bike parts online",
+  "type" : "story",
+  "url" : "http://pricecompare.bike/?utm_source=hn"
+}

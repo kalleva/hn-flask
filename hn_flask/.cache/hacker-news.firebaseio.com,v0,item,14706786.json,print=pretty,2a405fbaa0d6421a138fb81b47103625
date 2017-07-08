@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 1012
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14706786.json?print=pretty
+
+{
+  "by" : "2510c39011c5",
+  "descendants" : 8,
+  "id" : 14706786,
+  "kids" : [ 14706907, 14707094, 14707872 ],
+  "score" : 1,
+  "text" : "I just created a new account a couple of hours ago, hoping to participate in some discussion with a certain level of anonymity.  But it looks like the comments that I submitted with that account have all been marked as &quot;dead&quot; by the system, and are not visible to users whose &quot;karma&quot; is less than a certain value.  As some posts that I was replying to were submitted by some accounts with very little karma (&lt; 300), I doubt my posts could be seen by them.<p>I tried to put non-trivial information in each of my posts, and I absolutely have not used any aggressive language.  But how can I make those posts visible to some account with little karma, so I could participate in a good discussion in a timely fashion?",
+  "time" : 1499295182,
+  "title" : "Ask HN: How can I make pending comments posted from a new account visible?",
+  "type" : "story"
+}

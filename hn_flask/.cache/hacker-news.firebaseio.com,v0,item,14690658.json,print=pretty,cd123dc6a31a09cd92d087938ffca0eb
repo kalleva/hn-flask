@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 314
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14690658.json?print=pretty
+
+{
+  "by" : "llamataboot",
+  "descendants" : 4,
+  "id" : 14690658,
+  "kids" : [ 14690712, 14697096, 14690710 ],
+  "score" : 16,
+  "time" : 1499109286,
+  "title" : "Show HN: Ask the Caterpillar – A harm reduction chatbot/API for substance info",
+  "type" : "story",
+  "url" : "https://www.askthecaterpillar.com"
+}

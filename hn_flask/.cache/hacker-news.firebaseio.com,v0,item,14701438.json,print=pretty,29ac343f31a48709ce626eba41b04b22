@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 390
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701438.json?print=pretty
+
+{
+  "by" : "grondilu",
+  "descendants" : 0,
+  "id" : 14701438,
+  "score" : 2,
+  "text" : "Not sure it is very useful, but I found it cool:\n    DelaunayMesh[\n        Table[\n            Normalize[Table[RandomVariate[NormalDistribution[]],3]]\n        ,1000]\n    ]",
+  "time" : 1499253091,
+  "title" : "Show HN: One-liner for an isotropic sphere mesh in Mathematica",
+  "type" : "story"
+}

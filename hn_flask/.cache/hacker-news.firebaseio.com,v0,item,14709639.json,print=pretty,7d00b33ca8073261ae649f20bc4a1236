@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:53 GMT
+content-type: application/json; charset=utf-8
+content-length: 291
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709639.json?print=pretty
+
+{
+  "by" : "graqlbot",
+  "descendants" : 0,
+  "id" : 14709639,
+  "score" : 19,
+  "time" : 1499341917,
+  "title" : "Logic Programming (Prolog, ASP, etc) and GRAKN.AI (a distributed knowledge base)",
+  "type" : "story",
+  "url" : "https://blog.grakn.ai/isa-graql-logic-program-8af1258054a4"
+}

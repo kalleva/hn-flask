@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:56:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 247
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14688066.json?print=pretty
+
+{
+  "by" : "iamtekeste",
+  "descendants" : 5,
+  "id" : 14688066,
+  "kids" : [ 14688071, 14694846 ],
+  "score" : 8,
+  "time" : 1499088585,
+  "title" : "Show HN: Try Google fonts in Style",
+  "type" : "story",
+  "url" : "https://typehero.now.sh/"
+}

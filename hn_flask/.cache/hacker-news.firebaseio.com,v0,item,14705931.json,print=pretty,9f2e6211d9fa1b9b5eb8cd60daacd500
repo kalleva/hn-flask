@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 308
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705931.json?print=pretty
+
+{
+  "by" : "v512",
+  "descendants" : 7,
+  "id" : 14705931,
+  "kids" : [ 14710659, 14710243, 14708352, 14709641 ],
+  "score" : 17,
+  "time" : 1499287466,
+  "title" : "Show HN: Convert CSV files to searchable and sortable HTML table",
+  "type" : "story",
+  "url" : "https://github.com/vividvilla/csvtotable"
+}

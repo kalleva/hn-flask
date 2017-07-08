@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 368
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697308.json?print=pretty
+
+{
+  "by" : "awiesenhofer",
+  "descendants" : 5,
+  "id" : 14697308,
+  "kids" : [ 14697495, 14697542, 14697458 ],
+  "score" : 19,
+  "time" : 1499191228,
+  "title" : "Trying to work in Haiku, the BeOS successor",
+  "type" : "story",
+  "url" : "https://arstechnica.com/information-technology/2017/07/ars-spends-too-much-time-trying-to-work-in-haiku-the-beos-successor/"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:13 GMT
+content-type: application/json; charset=utf-8
+content-length: 233
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14676162.json?print=pretty
+
+{
+  "by" : "seycombi",
+  "descendants" : 0,
+  "id" : 14676162,
+  "score" : 4,
+  "time" : 1498899427,
+  "title" : "Solving the Rubik's Cube Optimally Is NP-Complete",
+  "type" : "story",
+  "url" : "https://arxiv.org/abs/1706.06708"
+}

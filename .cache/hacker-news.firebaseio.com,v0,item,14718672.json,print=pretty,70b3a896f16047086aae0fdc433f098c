@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:54 GMT
+content-type: application/json; charset=utf-8
+content-length: 323
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14718672.json?print=pretty
+
+{
+  "by" : "sillysaurus3",
+  "descendants" : 12,
+  "id" : 14718672,
+  "kids" : [ 14719453, 14721260, 14720832, 14719932, 14719720, 14721556, 14719431 ],
+  "score" : 81,
+  "time" : 1499438426,
+  "title" : "Bob Chassell has died",
+  "type" : "story",
+  "url" : "https://www.fsf.org/blogs/community/goodbye-to-bob-chassell"
+}

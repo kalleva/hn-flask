@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:27 GMT
+content-type: application/json; charset=utf-8
+content-length: 281
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700925.json?print=pretty
+
+{
+  "by" : "cpete",
+  "descendants" : 2,
+  "id" : 14700925,
+  "kids" : [ 14705044, 14703944 ],
+  "score" : 12,
+  "time" : 1499245925,
+  "title" : "Driving the Beat Road",
+  "type" : "story",
+  "url" : "https://www.washingtonpost.com/graphics/2017/lifestyle/the-beat-generation/"
+}

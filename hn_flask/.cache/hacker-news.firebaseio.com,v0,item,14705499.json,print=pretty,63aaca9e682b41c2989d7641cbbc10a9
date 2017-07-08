@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 10:23:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 487
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705499.json?print=pretty
+
+{
+  "by" : "prk90",
+  "descendants" : 91,
+  "id" : 14705499,
+  "kids" : [ 14705957, 14705889, 14706454, 14705898, 14706679, 14706218, 14705882, 14706176, 14707001, 14706606, 14707667, 14706963, 14706215, 14706460 ],
+  "score" : 151,
+  "time" : 1499283525,
+  "title" : "Bitcoin, Ethereum, Blockchain, Tokens, ICOs: Why Should Anyone Care?",
+  "type" : "story",
+  "url" : "https://medium.com/@preethikasireddy/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06"
+}

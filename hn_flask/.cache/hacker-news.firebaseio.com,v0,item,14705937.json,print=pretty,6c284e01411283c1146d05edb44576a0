@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 15:18:14 GMT
+content-type: application/json; charset=utf-8
+content-length: 358
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705937.json?print=pretty
+
+{
+  "by" : "wyndham",
+  "descendants" : 33,
+  "id" : 14705937,
+  "kids" : [ 14708047, 14709406, 14707373, 14706362 ],
+  "score" : 173,
+  "time" : 1499287518,
+  "title" : "How ‘Critical User Journeys’ can help a product take off",
+  "type" : "story",
+  "url" : "https://medium.com/initialized-capital/what-to-do-if-your-product-isnt-growing-7eb9d158fc"
+}

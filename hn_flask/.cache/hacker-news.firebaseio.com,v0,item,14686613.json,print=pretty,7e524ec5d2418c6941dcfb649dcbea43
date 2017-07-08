@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 600
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686613.json?print=pretty
+
+{
+  "by" : "evex",
+  "descendants" : 6,
+  "id" : 14686613,
+  "kids" : [ 14687766, 14690037, 14686939, 14686937 ],
+  "score" : 4,
+  "text" : "My last job was on a platform that is only for paid membership, so visitors can not see what&#x27;s inside.<p>Now I&#x27;m applying to remote jobs, and they ask what is a project that you&#x27;re most proud of,<p>and I can&#x27;t include it because its only for paid users,<p>how can I include my experience and prove it?",
+  "time" : 1499068383,
+  "title" : "Ask HN: How do I show recruiters my work on a platform for paid users only?",
+  "type" : "story"
+}

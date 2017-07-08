@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:12 GMT
+content-type: application/json; charset=utf-8
+content-length: 770
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14678504.json?print=pretty
+
+{
+  "by" : "jseliger",
+  "descendants" : 424,
+  "id" : 14678504,
+  "kids" : [ 14681478, 14678575, 14678860, 14679017, 14678960, 14678768, 14678635, 14678551, 14678607, 14678573, 14678627, 14679030, 14678589, 14679251, 14679632, 14681136, 14678953, 14678761, 14678690, 14679035, 14679298, 14681336, 14679164, 14678857, 14679953, 14679336, 14678847, 14678791, 14678600, 14678663, 14678667, 14678661, 14678678, 14680226, 14680501, 14678680, 14679982, 14678970, 14679085, 14678554 ],
+  "score" : 354,
+  "time" : 1498936789,
+  "title" : "As the U.S. fantasizes, the world builds high speed rail",
+  "type" : "story",
+  "url" : "http://www.thetransportpolitic.com/2017/07/01/a-generational-failure-as-the-u-s-fantasizes-the-rest-of-the-world-builds-a-new-transport-system/"
+}

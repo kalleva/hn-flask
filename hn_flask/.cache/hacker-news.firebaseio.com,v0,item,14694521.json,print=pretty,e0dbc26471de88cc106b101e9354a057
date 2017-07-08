@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 448
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694521.json?print=pretty
+
+{
+  "by" : "TokenDiversity",
+  "descendants" : 5,
+  "id" : 14694521,
+  "kids" : [ 14695474, 14696045, 14694657 ],
+  "score" : 8,
+  "text" : "I feel like this HN should be the leader in terms of setting guidelines for how to handle data and I would love to see a nice privacy policy. Is there someplace I haven&#x27;t looked? The footer doesn&#x27;t have it.",
+  "time" : 1499158471,
+  "title" : "Ask HN: Privacy policy of HN",
+  "type" : "story"
+}

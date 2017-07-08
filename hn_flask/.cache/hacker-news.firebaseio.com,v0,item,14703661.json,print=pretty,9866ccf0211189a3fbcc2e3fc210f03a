@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 08:44:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 752
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703661.json?print=pretty
+
+{
+  "by" : "speaktochris",
+  "descendants" : 365,
+  "id" : 14703661,
+  "kids" : [ 14708890, 14704682, 14704818, 14704410, 14708678, 14704502, 14704219, 14704408, 14704103, 14704537, 14704415, 14704477, 14708369, 14704172, 14708218, 14708885, 14706536, 14708161, 14704150, 14704520, 14704098, 14704585, 14704228, 14708493, 14708031, 14704258, 14704375, 14708872, 14708587, 14704142, 14706528, 14704498, 14708468, 14705713, 14704084, 14704759, 14704353, 14704275, 14704263, 14704327, 14704481, 14704370, 14704629, 14704396, 14708626, 14704358, 14708782, 14704485, 14704459 ],
+  "score" : 556,
+  "time" : 1499271291,
+  "title" : "Antisocial Coding: My Year at GitHub",
+  "type" : "story",
+  "url" : "http://where.coraline.codes/blog/my-year-at-github/"
+}

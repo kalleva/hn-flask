@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 339
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711819.json?print=pretty
+
+{
+  "by" : "jjeremycai",
+  "descendants" : 0,
+  "id" : 14711819,
+  "score" : 1,
+  "time" : 1499360058,
+  "title" : "OnboardIQ Raises $9.1M to Scale Data-Driven Hiring Platform for Hourly Workers",
+  "type" : "story",
+  "url" : "https://www.axios.com/onboardiq-raises-9-1-million-to-make-it-easier-to-hire-hourly-workers-2453953462.html"
+}

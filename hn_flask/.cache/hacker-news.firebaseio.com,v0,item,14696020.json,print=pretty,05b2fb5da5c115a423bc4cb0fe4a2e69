@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:31 GMT
+content-type: application/json; charset=utf-8
+content-length: 413
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14696020.json?print=pretty
+
+{
+  "by" : "havella",
+  "descendants" : 48,
+  "id" : 14696020,
+  "kids" : [ 14696205, 14696352, 14696343, 14696086, 14696305, 14697061, 14696214, 14696875, 14696577, 14696404, 14696221, 14696963, 14696651, 14697209 ],
+  "score" : 50,
+  "time" : 1499177982,
+  "title" : "Why Tesla Is Worth More Than GM",
+  "type" : "story",
+  "url" : "https://www.technologyreview.com/s/607954/why-tesla-is-worth-more-than-gm/"
+}

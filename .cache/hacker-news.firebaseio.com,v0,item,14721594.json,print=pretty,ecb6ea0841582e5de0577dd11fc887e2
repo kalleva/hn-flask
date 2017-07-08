@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:30 GMT
+content-type: application/json; charset=utf-8
+content-length: 239
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721594.json?print=pretty
+
+{
+  "by" : "cookkkie",
+  "descendants" : 0,
+  "id" : 14721594,
+  "score" : 2,
+  "time" : 1499457740,
+  "title" : "NLP: State-of-the-art neural coreference resolution system",
+  "type" : "story",
+  "url" : "https://huggingface.co/coref/"
+}

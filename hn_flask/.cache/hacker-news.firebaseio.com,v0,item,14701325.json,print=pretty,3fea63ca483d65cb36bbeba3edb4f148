@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:27 GMT
+content-type: application/json; charset=utf-8
+content-length: 704
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701325.json?print=pretty
+
+{
+  "by" : "aronlewis",
+  "descendants" : 0,
+  "id" : 14701325,
+  "score" : 2,
+  "text" : "I have a big amount of files on my hard disk. As i&#x27;ve got myself a NAS now, i want to have a good order for all the folder and files.<p>But how should i name this and that and which main folders should i create?<p>There are so much questions to ask. Which main folders should i create? (Documents, Media, Courses, Work, ..) And how should i name books (PDFs)? (Author - Name.pdf, Name.pdf, ..)<p>You would help me very much if you could provide me with an article or your own workflow on tidiness of your data.",
+  "time" : 1499251437,
+  "title" : "Ask HN: How do you name your files?",
+  "type" : "story"
+}

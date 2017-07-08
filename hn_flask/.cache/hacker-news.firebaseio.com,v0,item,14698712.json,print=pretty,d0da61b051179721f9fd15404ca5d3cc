@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 668
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14698712.json?print=pretty
+
+{
+  "by" : "aalhour",
+  "descendants" : 64,
+  "id" : 14698712,
+  "kids" : [ 14700720, 14709953, 14700836, 14698889, 14698898, 14699004, 14699470, 14699175, 14698871, 14708835, 14698810, 14700079, 14698883, 14698941, 14699136, 14698857, 14698845, 14698853, 14698868, 14698843, 14698811, 14698859, 14698838, 14700146, 14699972, 14699231, 14698867, 14700870, 14698780 ],
+  "score" : 57,
+  "text" : "For those who make €100K+ annually in Europe, where are you based? Where do you work? What is your position? And what is your job like?",
+  "time" : 1499206919,
+  "title" : "Ask HN: Those in Europe making €100K+ annually, what is your job like?",
+  "type" : "story"
+}

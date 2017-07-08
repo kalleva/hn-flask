@@ -1,0 +1,20 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:37 GMT
+content-type: application/json; charset=utf-8
+content-length: 236
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686022.json?print=pretty
+
+{
+  "by" : "dariaevdo",
+  "id" : 14686022,
+  "score" : 1,
+  "time" : 1499059413,
+  "title" : "VoiceOps is hiring product engineers in SF to build AI for b2b voice data",
+  "type" : "job",
+  "url" : "https://voiceops.com/careers.html"
+}

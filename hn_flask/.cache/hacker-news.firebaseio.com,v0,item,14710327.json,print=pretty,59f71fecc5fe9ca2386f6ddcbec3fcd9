@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 312
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14710327.json?print=pretty
+
+{
+  "by" : "gvb",
+  "descendants" : 5,
+  "id" : 14710327,
+  "kids" : [ 14711820, 14711691, 14711727, 14711283 ],
+  "score" : 54,
+  "time" : 1499348720,
+  "title" : "Self-Managing People Are Smart about Asking for Help",
+  "type" : "story",
+  "url" : "https://spin.atomicobject.com/2017/07/05/asking-for-help/"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 284
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711760.json?print=pretty
+
+{
+  "by" : "carsonfarmer",
+  "descendants" : 0,
+  "id" : 14711760,
+  "score" : 1,
+  "time" : 1499359687,
+  "title" : "On-device feature extraction: A crash course in data sketches",
+  "type" : "story",
+  "url" : "https://blog.set.gl/on-device-feature-extraction-part-i-ee1b5902227"
+}

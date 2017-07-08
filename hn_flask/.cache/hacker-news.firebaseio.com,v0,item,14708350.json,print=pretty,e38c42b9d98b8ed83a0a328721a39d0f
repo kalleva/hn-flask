@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 1104
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708350.json?print=pretty
+
+{
+  "by" : "zachng",
+  "descendants" : 142,
+  "id" : 14708350,
+  "kids" : [ 14709076, 14708817, 14711498, 14710882, 14708579, 14708792, 14709202, 14708750, 14708656, 14711094, 14711048, 14709141, 14711269, 14709854, 14711012, 14709706, 14710938, 14711077, 14710419, 14711230, 14709455, 14709471, 14710185, 14708803, 14711067, 14711116, 14710535, 14708807, 14709481, 14710172, 14708912, 14709657, 14708655, 14710631, 14710349, 14709864, 14708921, 14709277, 14708869, 14710418, 14711204, 14708635, 14709057, 14709408, 14708881, 14709885, 14708628, 14708859, 14709352, 14710279, 14709041, 14708987, 14709243, 14709075, 14708983, 14709088, 14708652, 14710602, 14709220, 14710274, 14708749, 14710775, 14709500, 14709534, 14708959 ],
+  "score" : 342,
+  "text" : "A quote by Kent Beck:\nI&#x27;m not a great programmer; I&#x27;m just a good programmer with great habits.<p>So what are the habits I should cultivate to be a great programmer or even a good one?\nWhat are the bad habits that I should drop?",
+  "time" : 1499319277,
+  "title" : "Ask HN: What habits make a programmer great?",
+  "type" : "story"
+}

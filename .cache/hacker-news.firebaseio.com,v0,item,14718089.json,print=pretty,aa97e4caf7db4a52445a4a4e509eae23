@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:52 GMT
+content-type: application/json; charset=utf-8
+content-length: 1813
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14718089.json?print=pretty
+
+{
+  "by" : "JayNeely",
+  "descendants" : 155,
+  "id" : 14718089,
+  "kids" : [ 14719697, 14721676, 14721334, 14721679, 14720605, 14721666, 14719707, 14721145, 14719841, 14720491, 14719516, 14721557, 14720917, 14720926, 14720376, 14719442, 14721415, 14720989, 14719789, 14719630, 14721512, 14721328, 14721429, 14721425, 14721136, 14721240, 14720082, 14719689, 14719568, 14719615, 14720738, 14719922, 14719946, 14721465, 14719434, 14721277, 14720979, 14719622, 14721463, 14721286, 14721363, 14719806, 14719763, 14721157, 14719447, 14721185, 14720124, 14719906, 14720048, 14719919, 14719958, 14720791, 14721028, 14719717, 14721033, 14721615, 14719844, 14720891, 14719771, 14719475, 14721035, 14719944, 14719690, 14720662, 14720277, 14719820, 14719965, 14721586, 14719872, 14720522, 14720185, 14719976, 14720588, 14718413, 14719746, 14719942, 14720115, 14720378, 14720140, 14719828, 14719797, 14720090, 14719813, 14720054, 14719685 ],
+  "score" : 204,
+  "text" : "A friend pointed out a bunch of the &#x27;tell us about your successful side project&#x27; threads suffer from a survivorship bias. They&#x27;re still great for inspiration, but I suspect we could learn a lot about challenges and wrong approaches from each others&#x27; failures.<p>So what&#x27;s a side project you built hoping to generate revenue from it, that hasn&#x27;t actually earned you much &#x2F; any money?<p>Why do you think it hasn&#x27;t been as successful as you thought it would be &#x2F; what would you do differently if you did it again? How much time&#x2F;money did you spend building it, and what kind of iterations &#x2F; improvements did you make to try and salvage it?<p>Appreciate any and all answers!",
+  "time" : 1499433654,
+  "title" : "Ask HN: What's a side project you built to make money that hasn't?",
+  "type" : "story"
+}

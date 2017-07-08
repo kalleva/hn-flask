@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:24:13 GMT
+content-type: application/json; charset=utf-8
+content-length: 485
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709105.json?print=pretty
+
+{
+  "by" : "slyall",
+  "descendants" : 45,
+  "id" : 14709105,
+  "kids" : [ 14709820, 14709737, 14709331, 14709410, 14710820, 14709616, 14709514, 14709659, 14709461, 14709329, 14709436, 14709742, 14709829, 14709428, 14710574, 14709552, 14710528 ],
+  "score" : 87,
+  "time" : 1499333258,
+  "title" : "Distributions are becoming irrelevant: difference was our strength and liability",
+  "type" : "story",
+  "url" : "https://blog.flameeyes.eu/2017/06/distributions-becoming-irrelevant/"
+}

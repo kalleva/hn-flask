@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:22 GMT
+content-type: application/json; charset=utf-8
+content-length: 348
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711423.json?print=pretty
+
+{
+  "by" : "santaclaus",
+  "descendants" : 0,
+  "id" : 14711423,
+  "score" : 1,
+  "time" : 1499357436,
+  "title" : "China's Elevated Bus Project Seemed Too Good to Be True – And It Was",
+  "type" : "story",
+  "url" : "http://www.npr.org/sections/parallels/2017/07/06/535625957/chinas-elevated-bus-project-seemed-too-good-to-be-true-and-it-was"
+}

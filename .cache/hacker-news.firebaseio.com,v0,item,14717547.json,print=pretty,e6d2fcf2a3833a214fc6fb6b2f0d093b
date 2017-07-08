@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:05 GMT
+content-type: application/json; charset=utf-8
+content-length: 460
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717547.json?print=pretty
+
+{
+  "by" : "todd8",
+  "descendants" : 63,
+  "id" : 14717547,
+  "kids" : [ 14720871, 14720116, 14723099, 14723229, 14723763, 14720455, 14720296, 14722842, 14723426, 14724131, 14720469, 14721473, 14723441, 14721686, 14722324, 14723100 ],
+  "score" : 126,
+  "time" : 1499426242,
+  "title" : "Exercise as a Preventive or Disease-Modifying Treatment for Dementia Brain Aging",
+  "type" : "story",
+  "url" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3258000/"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 259
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14704235.json?print=pretty
+
+{
+  "by" : "jhpriestley",
+  "descendants" : 0,
+  "id" : 14704235,
+  "score" : 2,
+  "time" : 1499274793,
+  "title" : "Show HN: Imperative.js, simpler UIs with JavaScript generators",
+  "type" : "story",
+  "url" : "http://jasonhpriestley.com/imperative.html"
+}

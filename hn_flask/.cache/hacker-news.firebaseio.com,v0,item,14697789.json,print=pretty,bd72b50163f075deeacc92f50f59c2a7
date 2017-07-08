@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 261
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697789.json?print=pretty
+
+{
+  "by" : "jermaink",
+  "descendants" : 9,
+  "id" : 14697789,
+  "kids" : [ 14698477, 14698662, 14698329 ],
+  "score" : 11,
+  "time" : 1499196521,
+  "title" : "Chinese room argument",
+  "type" : "story",
+  "url" : "https://en.wikipedia.org/wiki/Chinese_room"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:32 GMT
+content-type: application/json; charset=utf-8
+content-length: 311
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14691408.json?print=pretty
+
+{
+  "by" : "iafrikan",
+  "descendants" : 0,
+  "id" : 14691408,
+  "score" : 7,
+  "time" : 1499116087,
+  "title" : "Morocco Secured $25Mln Funding for Hybrid Solar Power Project",
+  "type" : "story",
+  "url" : "https://www.iafrikan.com/2017/07/03/morocco-solar-power-hybrid-climate-investment-fund-25-million/"
+}

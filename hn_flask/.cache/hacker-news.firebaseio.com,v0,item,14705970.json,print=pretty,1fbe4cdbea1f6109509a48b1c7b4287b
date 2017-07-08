@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 10:23:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 433
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705970.json?print=pretty
+
+{
+  "by" : "AlphaWeaver",
+  "descendants" : 63,
+  "id" : 14705970,
+  "kids" : [ 14707639, 14707690, 14707551, 14707608, 14708809, 14707773, 14709071, 14708027, 14707683, 14708442 ],
+  "score" : 86,
+  "time" : 1499287722,
+  "title" : "Focus on Infants During Childbirth Leaves U.S. Moms in Danger",
+  "type" : "story",
+  "url" : "http://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger"
+}

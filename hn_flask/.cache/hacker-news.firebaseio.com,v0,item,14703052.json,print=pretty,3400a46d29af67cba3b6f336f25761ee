@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 2603
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703052.json?print=pretty
+
+{
+  "by" : "proberts",
+  "descendants" : 311,
+  "id" : 14703052,
+  "kids" : [ 14705042, 14703711, 14704953, 14703460, 14703499, 14708984, 14703113, 14704037, 14704741, 14703836, 14703828, 14704469, 14704113, 14704571, 14704486, 14703135, 14707432, 14704362, 14703534, 14703909, 14703473, 14704848, 14709218, 14703323, 14704651, 14707263, 14705159, 14703131, 14704940, 14704355, 14703295, 14705078, 14703209, 14703796, 14704643, 14703136, 14704254, 14703150, 14703359, 14703814, 14703935, 14703967, 14703774, 14703833, 14703402, 14705818, 14704015, 14703871, 14703955, 14703966, 14707187, 14703271, 14703864, 14704276, 14705011, 14703415, 14707266, 14703452, 14703878, 14703477, 14704173, 14703954, 14704156, 14705008, 14704207, 14704470, 14704742, 14703444, 14704507, 14703310, 14703279, 14703205, 14703529, 14704357, 14704975, 14704801, 14704039, 14704057, 14703946, 14704205, 14704456, 14704086, 14703642, 14704868, 14703105, 14703945, 14703089, 14703875, 14703652, 14704206, 14704061, 14704400, 14703188, 14704282, 14704793, 14703127, 14704188, 14703916, 14704444, 14703853, 14704105, 14704522, 14703301, 14704711, 14704493, 14704658, 14703798, 14703480, 14704190, 14704654 ],
+  "score" : 227,
+  "text" : "It&#x27;s been a year since we did our last immigration AMA (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=11972135\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=11972135</a>) and we thought it might be time to do another. I&#x27;ll be here for a few hours to answer your questions about U.S. immigration.<p>As usual, there are countless possible topics and I&#x27;ll be guided by whatever you&#x27;re concerned with. Please remember that I can&#x27;t provide legal advice on specific cases for obvious liability reasons because I won’t have access to all the facts. With all that&#x27;s happened in the last year, it might make sense to discuss the changes, real and perceived, in immigration policy and practice now and in the future, such as, for example, an increase in site visits and a more restrictive approach to admissions and visa issuance. Please stick to a factual discussion in your questions and comments and I&#x27;ll try to do the same in my answers!  One thing I noticed, looking at some recent threads on HN, are some common misconceptions about the standards for extraordinary ability, in both the nonimmigrant (O-1) and green card context, so hopefully we can clear some of that up as well.",
+  "time" : 1499267836,
+  "title" : "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+  "type" : "story"
+}

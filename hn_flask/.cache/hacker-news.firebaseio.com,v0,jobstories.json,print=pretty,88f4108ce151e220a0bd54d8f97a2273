@@ -1,0 +1,12 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:34 GMT
+content-type: application/json; charset=utf-8
+content-length: 133
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/jobstories.json?print=pretty
+
+[ 14711356, 14709035, 14706882, 14705188, 14701589, 14695553, 14694314, 14693473, 14692580, 14691343, 14689698, 14687087, 14686022 ]

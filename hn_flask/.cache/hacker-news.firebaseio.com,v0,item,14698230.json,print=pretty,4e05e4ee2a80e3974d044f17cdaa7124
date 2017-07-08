@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 308
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14698230.json?print=pretty
+
+{
+  "by" : "cryptominded",
+  "descendants" : 6,
+  "id" : 14698230,
+  "kids" : [ 14698307, 14698240, 14700495 ],
+  "score" : 42,
+  "time" : 1499201844,
+  "title" : "Show HN: Cryptominded – A curated directory of the best cryptocurrency resources",
+  "type" : "story",
+  "url" : "https://cryptominded.com"
+}

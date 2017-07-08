@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 230
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705345.json?print=pretty
+
+{
+  "by" : "ryannjohnson",
+  "descendants" : 0,
+  "id" : 14705345,
+  "score" : 1,
+  "time" : 1499282370,
+  "title" : "Show HN: Personal feed of homepage updates",
+  "type" : "story",
+  "url" : "https://www.visitorplatform.com/"
+}

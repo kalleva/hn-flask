@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 344
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14706196.json?print=pretty
+
+{
+  "by" : "jason_slack",
+  "descendants" : 0,
+  "id" : 14706196,
+  "score" : 2,
+  "text" : "I tend to travel. It would be nice to not connect directly to public Wifi but rather have my own Wifi device that connects to it that I am then behind.",
+  "time" : 1499289513,
+  "title" : "Ask HN: When to use a Wifi Pineapple?",
+  "type" : "story"
+}

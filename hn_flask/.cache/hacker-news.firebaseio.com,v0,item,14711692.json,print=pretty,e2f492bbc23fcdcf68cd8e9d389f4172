@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 937
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711692.json?print=pretty
+
+{
+  "by" : "thsowers",
+  "descendants" : 0,
+  "id" : 14711692,
+  "score" : 1,
+  "text" : "I manage a lot of VPS servers (Linode,  Digital Ocean) for work. At first, it was no problem to just SSH in and do maintenance, package upgrades, manage iptables, etc, but I don&#x27;t find that this scales well past 10+ or so servers (now have upwards of 20).<p>I&#x27;m aware that there are commercial products available, like Parallels, and Canonical&#x27;s Landscape. However, only some of my servers are running Ubuntu, so that rules out Landscape, and in my limited understanding, running a command panel like Parallels really increases the attack surface on my servers.<p>Currently I use terminator with broadcasting to simultaneously type on multiple terminals. Are there better options? What tools would you recommend?",
+  "time" : 1499359286,
+  "title" : "Ask HN: How do you easily manage multiple remote servers?",
+  "type" : "story"
+}

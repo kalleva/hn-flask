@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:33:53 GMT
+content-type: application/json; charset=utf-8
+content-length: 244
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14707682.json?print=pretty
+
+{
+  "by" : "tokyoSurfer",
+  "descendants" : 0,
+  "id" : 14707682,
+  "score" : 3,
+  "time" : 1499306832,
+  "title" : "What is a particle collider?",
+  "type" : "story",
+  "url" : "https://techcrunch.com/2017/07/05/wtf-is-a-particle-collider/"
+}

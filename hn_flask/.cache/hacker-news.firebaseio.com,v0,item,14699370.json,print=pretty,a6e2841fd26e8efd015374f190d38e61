@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 286
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699370.json?print=pretty
+
+{
+  "by" : "ehudla",
+  "descendants" : 0,
+  "id" : 14699370,
+  "score" : 7,
+  "time" : 1499217108,
+  "title" : "Netanyahu to Modi:In Silicon Valley the 2 most spoken languages are Hindi&Hebrew",
+  "type" : "story",
+  "url" : "https://twitter.com/BarakRavid/status/882226797450055680"
+}

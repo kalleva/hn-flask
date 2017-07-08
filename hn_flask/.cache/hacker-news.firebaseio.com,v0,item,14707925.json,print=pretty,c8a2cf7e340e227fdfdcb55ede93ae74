@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 325
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14707925.json?print=pretty
+
+{
+  "by" : "samstave",
+  "descendants" : 0,
+  "id" : 14707925,
+  "score" : 4,
+  "text" : "Can you please provide any input on your use of redshift spectrum?<p>Issues, comments, concerns, successes?",
+  "time" : 1499310983,
+  "title" : "Ask HN: Redshift Spectrum; Anyone used it at all yet? Experience?",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:20 GMT
+content-type: application/json; charset=utf-8
+content-length: 255
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711527.json?print=pretty
+
+{
+  "by" : "fehfn37",
+  "descendants" : 1,
+  "id" : 14711527,
+  "kids" : [ 14711532 ],
+  "score" : 1,
+  "time" : 1499358218,
+  "title" : "Layoffs at SoundCloud",
+  "type" : "story",
+  "url" : "https://twitter.com/aaronmblevin/status/882976788388999168"
+}

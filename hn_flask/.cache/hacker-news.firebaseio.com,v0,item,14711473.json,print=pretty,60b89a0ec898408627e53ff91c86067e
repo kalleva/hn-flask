@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:21 GMT
+content-type: application/json; charset=utf-8
+content-length: 241
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711473.json?print=pretty
+
+{
+  "by" : "josetint",
+  "descendants" : 0,
+  "id" : 14711473,
+  "score" : 1,
+  "time" : 1499357812,
+  "title" : "FUNNY VIDEO: SH*T PEOPLE SAY IN SILICON VALLEY",
+  "type" : "story",
+  "url" : "https://www.youtube.com/watch?v=gc-h9UBAaIs"
+}

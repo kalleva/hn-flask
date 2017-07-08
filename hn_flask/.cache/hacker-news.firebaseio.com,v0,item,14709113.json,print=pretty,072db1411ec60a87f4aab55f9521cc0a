@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:42 GMT
+content-type: application/json; charset=utf-8
+content-length: 446
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709113.json?print=pretty
+
+{
+  "by" : "noja",
+  "descendants" : 2,
+  "id" : 14709113,
+  "kids" : [ 14710511, 14709959 ],
+  "score" : 2,
+  "text" : "IMO the best weather widget for Android is now open source. Play: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=net.veierland.aix GitHub: https:&#x2F;&#x2F;github.com&#x2F;pveierland&#x2F;aix-weather-widget",
+  "time" : 1499333426,
+  "title" : "Aix Weather Widget open sourced",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 296
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697431.json?print=pretty
+
+{
+  "by" : "sacert",
+  "descendants" : 12,
+  "id" : 14697431,
+  "kids" : [ 14697892, 14697731, 14698254, 14697691, 14699008, 14697817, 14697702 ],
+  "score" : 65,
+  "time" : 1499192542,
+  "title" : "Show HN: Bloom Filter",
+  "type" : "story",
+  "url" : "https://sacert.github.io/Bloom-Filter/"
+}

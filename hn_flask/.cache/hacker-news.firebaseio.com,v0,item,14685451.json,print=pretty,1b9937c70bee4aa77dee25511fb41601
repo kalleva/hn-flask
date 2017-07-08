@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:40 GMT
+content-type: application/json; charset=utf-8
+content-length: 603
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14685451.json?print=pretty
+
+{
+  "by" : "jonahx",
+  "descendants" : 0,
+  "id" : 14685451,
+  "kids" : [ 14686474 ],
+  "score" : 19,
+  "text" : "A subtle race condition in C&#x2F;C++ code caused what was, at the time, the 2nd most widespread power outage in history:<p>https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Northeast_blackout_of_2003<p>I am curious if the code containing the race condition -- and the specific details of how it was triggered -- has ever been released.  If so, where?",
+  "time" : 1499047850,
+  "title" : "Ask HN: Has the race condition code of 2003 NE Blackout ever been released?",
+  "type" : "story"
+}

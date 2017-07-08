@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:45:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 365
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14689752.json?print=pretty
+
+{
+  "by" : "robertelder",
+  "descendants" : 23,
+  "id" : 14689752,
+  "kids" : [ 14690185, 14690893, 14691638, 14691006, 14694528, 14694576, 14692369, 14691491, 14690107 ],
+  "score" : 186,
+  "time" : 1499101341,
+  "title" : "Myers Diff Algorithm – Code and Interactive Visualization",
+  "type" : "story",
+  "url" : "http://blog.robertelder.org/diff-algorithm/"
+}

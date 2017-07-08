@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 269
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711685.json?print=pretty
+
+{
+  "by" : "p8gupta",
+  "descendants" : 0,
+  "id" : 14711685,
+  "score" : 1,
+  "time" : 1499359246,
+  "title" : "LastPass – An unsolicited redesign",
+  "type" : "story",
+  "url" : "https://medium.com/@priyankagupta.rj/lastpass-an-unsolicited-redesign-8d04794ad664"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 367
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14688222.json?print=pretty
+
+{
+  "by" : "tawalata",
+  "descendants" : 21,
+  "id" : 14688222,
+  "kids" : [ 14689489, 14688680, 14688785, 14688893, 14688824, 14691149, 14688921, 14688638, 14690133, 14689382, 14691038, 14688568, 14688897, 14688780, 14688452 ],
+  "score" : 213,
+  "time" : 1499089945,
+  "title" : "O'reilly book cover generator",
+  "type" : "story",
+  "url" : "https://dev.to/rly"
+}

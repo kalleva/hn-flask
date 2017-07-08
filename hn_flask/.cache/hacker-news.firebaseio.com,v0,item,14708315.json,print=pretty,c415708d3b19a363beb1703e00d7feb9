@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 372
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708315.json?print=pretty
+
+{
+  "by" : "sethbannon",
+  "descendants" : 7,
+  "id" : 14708315,
+  "kids" : [ 14711186, 14710856, 14711214, 14710635, 14711278, 14711117 ],
+  "score" : 69,
+  "time" : 1499318575,
+  "title" : "The story behind the default Windows XP desktop background",
+  "type" : "story",
+  "url" : "https://www.artsy.net/article/artsy-editorial-story-worlds-famous-desktop-background"
+}

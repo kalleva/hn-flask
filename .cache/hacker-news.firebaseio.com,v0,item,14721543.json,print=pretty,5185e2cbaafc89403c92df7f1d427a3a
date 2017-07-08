@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:30 GMT
+content-type: application/json; charset=utf-8
+content-length: 294
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721543.json?print=pretty
+
+{
+  "by" : "Mz",
+  "descendants" : 0,
+  "id" : 14721543,
+  "score" : 2,
+  "time" : 1499457386,
+  "title" : "NASA photographed huge avalanche from space in what it calls 'a stroke of luck'",
+  "type" : "story",
+  "url" : "http://www.businessinsider.com/snow-avalanche-space-image-nasa-2017-7"
+}

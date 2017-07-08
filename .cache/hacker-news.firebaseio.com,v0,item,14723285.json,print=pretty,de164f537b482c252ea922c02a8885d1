@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:34 GMT
+content-type: application/json; charset=utf-8
+content-length: 257
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14723285.json?print=pretty
+
+{
+  "by" : "bealuga",
+  "descendants" : 0,
+  "id" : 14723285,
+  "score" : 2,
+  "time" : 1499472772,
+  "title" : "Show HN: Let Others Access Your Jupyter Notebook via a Public Url",
+  "type" : "story",
+  "url" : "https://github.com/biancasubion/jupyshare"
+}

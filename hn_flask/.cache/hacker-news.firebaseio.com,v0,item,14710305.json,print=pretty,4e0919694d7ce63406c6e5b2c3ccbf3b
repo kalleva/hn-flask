@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 436
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14710305.json?print=pretty
+
+{
+  "by" : "mcbobbington",
+  "descendants" : 21,
+  "id" : 14710305,
+  "kids" : [ 14711546, 14711449, 14711421, 14710890, 14710714, 14711049, 14711201, 14710978, 14710514 ],
+  "score" : 53,
+  "text" : "These guys seem to be pretty good hackers. Anyone know how much they make?  Or is that classified?  If so, anybody have any idea?",
+  "time" : 1499348531,
+  "title" : "How much do hackers at the CIA/NSA/FBI make",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 371
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694416.json?print=pretty
+
+{
+  "by" : "mpweiher",
+  "descendants" : 5,
+  "id" : 14694416,
+  "kids" : [ 14696886 ],
+  "score" : 24,
+  "time" : 1499157154,
+  "title" : "Azure Data Lake Store: a hyperscale distributed file service for analytics",
+  "type" : "story",
+  "url" : "https://blog.acolyer.org/2017/07/04/azure-data-lake-store-a-hyperscale-distributed-file-service-for-big-data-analytics/"
+}

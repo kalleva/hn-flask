@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 282
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14716364.json?print=pretty
+
+{
+  "by" : "raghavbhaskar",
+  "descendants" : 0,
+  "id" : 14716364,
+  "score" : 2,
+  "time" : 1499406555,
+  "title" : "Show HN Protect Your Wordpress Website with One-Step, Two Factor Authentication",
+  "type" : "story",
+  "url" : "https://wordpress.org/plugins/appspicketlogin/"
+}

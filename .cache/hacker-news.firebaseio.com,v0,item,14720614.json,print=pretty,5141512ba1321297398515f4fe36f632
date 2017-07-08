@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 492
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14720614.json?print=pretty
+
+{
+  "by" : "ingve",
+  "descendants" : 57,
+  "id" : 14720614,
+  "kids" : [ 14722708, 14724379, 14723711, 14723143, 14723655, 14722195, 14724406, 14722371, 14722281, 14722054, 14723564, 14722731, 14723427, 14722068, 14723207, 14722283, 14723484, 14723745 ],
+  "score" : 243,
+  "time" : 1499450925,
+  "title" : "Lessons from my first year of live coding on Twitch",
+  "type" : "story",
+  "url" : "https://medium.com/@suzhinton/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1"
+}

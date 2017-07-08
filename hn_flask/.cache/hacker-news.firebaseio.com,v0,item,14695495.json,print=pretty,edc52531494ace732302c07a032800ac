@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 272
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695495.json?print=pretty
+
+{
+  "by" : "ekzy",
+  "descendants" : 12,
+  "id" : 14695495,
+  "kids" : [ 14697207, 14697398, 14696622, 14697471 ],
+  "score" : 48,
+  "time" : 1499172055,
+  "title" : "Sweet.js – Hygienic Macros for JavaScript",
+  "type" : "story",
+  "url" : "https://www.sweetjs.org/"
+}

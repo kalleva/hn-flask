@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 441
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705340.json?print=pretty
+
+{
+  "by" : "zython",
+  "descendants" : 1,
+  "id" : 14705340,
+  "kids" : [ 14705388 ],
+  "score" : 2,
+  "text" : "I want to write readable, maintainable JS but with the overwhelming choice that JS gives I quickly got lost when trying to get a oversight over the JS landscape.<p>What can I do in your opinion to learn to write modern JS ?",
+  "time" : 1499282325,
+  "title" : "Ask HN: How do I write modern JavaScript ?",
+  "type" : "story"
+}

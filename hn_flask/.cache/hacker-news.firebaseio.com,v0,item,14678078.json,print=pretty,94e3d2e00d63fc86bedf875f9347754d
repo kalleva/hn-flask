@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 364
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14678078.json?print=pretty
+
+{
+  "by" : "dnetesn",
+  "descendants" : 43,
+  "id" : 14678078,
+  "kids" : [ 14679000, 14678917, 14678640, 14678463, 14678432, 14678431, 14680491, 14678781 ],
+  "score" : 142,
+  "time" : 1498931423,
+  "title" : "How Aging Research Is Changing Our Lives",
+  "type" : "story",
+  "url" : "http://aging.nautil.us/feature/226/how-aging-research-is-changing-our-lives"
+}

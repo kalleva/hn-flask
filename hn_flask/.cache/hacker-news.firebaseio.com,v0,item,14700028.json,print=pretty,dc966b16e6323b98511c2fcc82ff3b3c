@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 08:43:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 380
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700028.json?print=pretty
+
+{
+  "by" : "kschua",
+  "descendants" : 10,
+  "id" : 14700028,
+  "kids" : [ 14704846, 14707815, 14707430 ],
+  "score" : 79,
+  "time" : 1499230109,
+  "title" : "Florence Nightingale saved people with her grasp of numbers",
+  "type" : "story",
+  "url" : "http://www.huffingtonpost.com.au/alan-finkel-ao/florence-nightingale-saved-far-more-people-with-her-grasp-of-num_a_23014858/"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:33 GMT
+content-type: application/json; charset=utf-8
+content-length: 259
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721372.json?print=pretty
+
+{
+  "by" : "bryanrasmussen",
+  "descendants" : 0,
+  "id" : 14721372,
+  "score" : 1,
+  "time" : 1499456039,
+  "title" : "China’s thriving online lit scene is heading overseas",
+  "type" : "story",
+  "url" : "http://www.globaltimes.cn/content/973691.shtml"
+}

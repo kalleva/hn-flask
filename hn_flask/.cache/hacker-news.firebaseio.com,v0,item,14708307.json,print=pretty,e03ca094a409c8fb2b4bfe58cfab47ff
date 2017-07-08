@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:48 GMT
+content-type: application/json; charset=utf-8
+content-length: 414
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708307.json?print=pretty
+
+{
+  "by" : "sohkamyung",
+  "descendants" : 73,
+  "id" : 14708307,
+  "kids" : [ 14709453, 14710658, 14708588, 14709681, 14708957, 14709169, 14710001, 14708687, 14708595, 14709886, 14710645, 14708999, 14708799, 14708669, 14709043 ],
+  "score" : 276,
+  "time" : 1499318466,
+  "title" : "Fixing bugs like it's 1988",
+  "type" : "story",
+  "url" : "https://0xa000.blogspot.com/2017/06/fixing-bugs-like-its-1988.html"
+}

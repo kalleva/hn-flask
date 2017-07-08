@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 726
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694345.json?print=pretty
+
+{
+  "by" : "v3gas",
+  "descendants" : 3,
+  "id" : 14694345,
+  "kids" : [ 14695765, 14695348, 14694579 ],
+  "score" : 6,
+  "text" : "I&#x27;ve read several interesting articles about Kensho,\n e.g https:&#x2F;&#x2F;www.nytimes.com&#x2F;2016&#x2F;02&#x2F;28&#x2F;magazine&#x2F;the-robots-are-coming-for-wall-street.html.<p>Fortune has deemed Kensho as one of the top 5 most interesting Fintech companies. Yet every time a link has been submitted here there has been almost no activity.<p>They seem to be doing some interesting work, replacing a lot of the researchers on Wall Street.<p>Any thoughts? Anyone here work there?",
+  "time" : 1499156037,
+  "title" : "Ask HN: Why is there no buzz about Kensho?",
+  "type" : "story"
+}

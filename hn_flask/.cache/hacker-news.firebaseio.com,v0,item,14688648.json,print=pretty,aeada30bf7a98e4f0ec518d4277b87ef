@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:40 GMT
+content-type: application/json; charset=utf-8
+content-length: 292
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14688648.json?print=pretty
+
+{
+  "by" : "miguelrochefort",
+  "descendants" : 18,
+  "id" : 14688648,
+  "kids" : [ 14691267, 14689043, 14694185, 14703386, 14692005, 14698097, 14690147, 14695225 ],
+  "score" : 7,
+  "time" : 1499093700,
+  "title" : "Ask HN: Do you put Mensa membership on your resume?",
+  "type" : "story"
+}

@@ -1,0 +1,19 @@
+status: 200
+server: nginx
+date: Sat, 01 Jul 2017 09:20:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 301
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14676206.json?print=pretty
+
+{
+  "by" : "thriftwy",
+  "id" : 14676206,
+  "parent" : 14675877,
+  "text" : "There are companies which prefer their employees to come from a short set of schools.<p>How would it help them if they have diverse employees coming from the same limited set?",
+  "time" : 1498900467,
+  "type" : "comment"
+}

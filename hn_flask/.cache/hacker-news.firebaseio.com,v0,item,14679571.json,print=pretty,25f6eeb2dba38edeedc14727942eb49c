@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:12 GMT
+content-type: application/json; charset=utf-8
+content-length: 688
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14679571.json?print=pretty
+
+{
+  "by" : "bsvalley",
+  "descendants" : 34,
+  "id" : 14679571,
+  "kids" : [ 14681398, 14681436, 14681325, 14680556, 14681447, 14681433, 14680889, 14681446, 14679589, 14680406, 14679805, 14679958, 14680899, 14679598, 14680770, 14679819, 14681021 ],
+  "score" : 22,
+  "text" : "I&#x27;ve always wondered which one of the two is more user friendly - a username or an email?<p>An email is usually longer and involves special characters. A username on the other hand is usually easily forgettable.<p>So what is the best practice when it comes to picking up a user login attribute?",
+  "time" : 1498950007,
+  "title" : "Ask HN: Should a login be a Username or an Email?",
+  "type" : "story"
+}

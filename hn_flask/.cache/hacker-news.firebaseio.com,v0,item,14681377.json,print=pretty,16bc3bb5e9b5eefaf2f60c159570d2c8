@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 270
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14681377.json?print=pretty
+
+{
+  "by" : "edward",
+  "descendants" : 0,
+  "id" : 14681377,
+  "score" : 11,
+  "time" : 1498981174,
+  "title" : "Systemd can't handle the process privilege for username startswith number",
+  "type" : "story",
+  "url" : "https://github.com/systemd/systemd/issues/6237"
+}

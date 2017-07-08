@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 989
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686745.json?print=pretty
+
+{
+  "by" : "seanpackham",
+  "descendants" : 108,
+  "id" : 14686745,
+  "kids" : [ 14687779, 14688010, 14687062, 14687364, 14687627, 14687836, 14686952, 14687512, 14688221, 14687487, 14690451, 14687091, 14687358, 14688538, 14687519, 14688386, 14687462, 14690212, 14689082, 14688898, 14687419, 14688264, 14687897, 14687795, 14687758, 14688184, 14687524, 14689169, 14687556, 14688451, 14687014, 14687868, 14691136, 14687293, 14688597, 14688832, 14688115, 14692215, 14688229, 14694512, 14687520, 14687522, 14687061, 14686917 ],
+  "score" : 293,
+  "text" : "What job boards or apps&#x2F;services, from any industry, does the community think are great examples of the job application process done well and what is it they do better than the others?<p>Lastly, when a job application does use LinkedIn&#x27;s auto-fill feature what are your experiences with it?",
+  "time" : 1499070218,
+  "title" : "Ask HN: What are some of the best job boards you have seen (any industry)?",
+  "type" : "story"
+}

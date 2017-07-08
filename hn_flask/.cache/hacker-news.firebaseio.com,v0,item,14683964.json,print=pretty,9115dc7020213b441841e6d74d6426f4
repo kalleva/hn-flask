@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 594
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14683964.json?print=pretty
+
+{
+  "by" : "etiam",
+  "descendants" : 206,
+  "id" : 14683964,
+  "kids" : [ 14684341, 14684651, 14684135, 14684161, 14685304, 14684265, 14685185, 14684170, 14685032, 14684502, 14685001, 14687399, 14690682, 14685497, 14686660, 14684638, 14687315, 14687105, 14686165, 14684246, 14687543, 14684697, 14685454, 14687551, 14684259, 14684223 ],
+  "score" : 711,
+  "time" : 1499024123,
+  "title" : "Largest-ever study of controversial pesticides finds harm to bees",
+  "type" : "story",
+  "url" : "https://www.nature.com/news/largest-ever-study-of-controversial-pesticides-finds-harm-to-bees-1.22229"
+}

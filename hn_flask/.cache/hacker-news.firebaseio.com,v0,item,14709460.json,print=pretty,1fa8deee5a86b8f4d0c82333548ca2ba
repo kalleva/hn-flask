@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 1263
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709460.json?print=pretty
+
+{
+  "by" : "timthelion",
+  "descendants" : 12,
+  "id" : 14709460,
+  "kids" : [ 14709557, 14709979, 14709592, 14709490 ],
+  "score" : 6,
+  "text" : "Looking at HN&#x27;s top stories over the past couple of months, I cannot remember a single story about an exciting new technology. There have been some stories about machine learning and self driving cars, but in neither category have any real breakthroughs been published, nothings really changed in say half a year.<p>This is not normal. At least not for my lifetime as a 26 year old.<p>I wonder where the problem is. Is the problem that new things aren&#x27;t being invented, or that the new inventions aren&#x27;t being talked about on HN?<p>I think it is a combination of both. I think that HN has started to get too silocone valley meta. Too many articles are talking &quot;about the industry&quot; and too few are talking about exciting new projects. Afterall, github is overflowing with exciting new projects, and the makerspace culture still exists (though seems to be on a downturn). But it also seems that the English speaking tech world isn&#x27;t doing very well right now.<p>What do you think?",
+  "time" : 1499339121,
+  "title" : "Ask HN: Has tech flatlined or is it just HN?",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 346
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14706299.json?print=pretty
+
+{
+  "by" : "dphov",
+  "descendants" : 9,
+  "id" : 14706299,
+  "kids" : [ 14708392, 14707589, 14707393, 14707556, 14707553, 14707598, 14707702, 14706890, 14707641 ],
+  "score" : 14,
+  "time" : 1499290370,
+  "title" : "Never Be a Programmer in a Suit",
+  "type" : "story",
+  "url" : "http://thecodist.com/article/never_be_a_programmer_in_a_suit"
+}

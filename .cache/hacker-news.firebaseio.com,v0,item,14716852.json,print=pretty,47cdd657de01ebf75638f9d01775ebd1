@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:53 GMT
+content-type: application/json; charset=utf-8
+content-length: 585
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14716852.json?print=pretty
+
+{
+  "by" : "ternaryoperator",
+  "descendants" : 105,
+  "id" : 14716852,
+  "kids" : [ 14718282, 14717062, 14717750, 14718182, 14717991, 14718271, 14719959, 14716882, 14719268, 14719468, 14718685, 14719293, 14717670, 14718320, 14718503, 14718909, 14720138, 14717474, 14717538, 14717889, 14717956, 14717231, 14718366, 14717853, 14717323, 14718232, 14717108, 14718604, 14717369, 14717746 ],
+  "score" : 376,
+  "time" : 1499414670,
+  "title" : "Mastering Programming (2016)",
+  "type" : "story",
+  "url" : "https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414"
+}

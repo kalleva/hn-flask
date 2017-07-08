@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 14:06:04 GMT
+content-type: application/json; charset=utf-8
+content-length: 276
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14710377.json?print=pretty
+
+{
+  "by" : "cooldiamond",
+  "descendants" : 0,
+  "id" : 14710377,
+  "score" : 3,
+  "time" : 1499349045,
+  "title" : "This Is How People Make Money Out of Thin Air Thanks to the Internet",
+  "type" : "story",
+  "url" : "https://quartsoft.com/blog/201706/make-money-internet"
+}

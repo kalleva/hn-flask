@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 10:21:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 272
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699016.json?print=pretty
+
+{
+  "by" : "oglimmer",
+  "descendants" : 2,
+  "id" : 14699016,
+  "kids" : [ 14703333 ],
+  "score" : 3,
+  "time" : 1499211644,
+  "title" : "Show HN: Multiplayer, JavaScript Coding Game – Kebab Restaurant",
+  "type" : "story",
+  "url" : "https://codeyourrestaurant.com"
+}

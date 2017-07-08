@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 357
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697138.json?print=pretty
+
+{
+  "by" : "thomasdd",
+  "descendants" : 29,
+  "id" : 14697138,
+  "kids" : [ 14698457, 14697735, 14697966, 14699452, 14700029, 14702675, 14697888, 14697736 ],
+  "score" : 121,
+  "time" : 1499189355,
+  "title" : "The story of the Slovak national top-level domain",
+  "type" : "story",
+  "url" : "https://medium.com/@Oskar456/stolen-sk-domain-717e070f6735"
+}

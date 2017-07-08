@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:33:54 GMT
+content-type: application/json; charset=utf-8
+content-length: 294
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701351.json?print=pretty
+
+{
+  "by" : "ingve",
+  "descendants" : 7,
+  "id" : 14701351,
+  "kids" : [ 14705741, 14707989, 14706708 ],
+  "score" : 47,
+  "time" : 1499251797,
+  "title" : "Counting Bloom Filter in C++",
+  "type" : "story",
+  "url" : "https://medium.com/@cyril0allen/counting-bloom-filter-in-c-9672ec25b3ec"
+}

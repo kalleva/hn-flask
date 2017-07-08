@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 297
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14687314.json?print=pretty
+
+{
+  "by" : "rmanyari",
+  "descendants" : 8,
+  "id" : 14687314,
+  "kids" : [ 14698690, 14701037, 14697897 ],
+  "score" : 45,
+  "time" : 1499079109,
+  "title" : "Show HN: Cross Cloud Latency – A tool that measures latency from AWS to GCP",
+  "type" : "story",
+  "url" : "https://cclatency.com/"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:37 GMT
+content-type: application/json; charset=utf-8
+content-length: 459
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699983.json?print=pretty
+
+{
+  "by" : "curtis",
+  "descendants" : 135,
+  "id" : 14699983,
+  "kids" : [ 14700612, 14701774, 14706718, 14701148, 14703385, 14705137, 14703175, 14700730, 14700714, 14701593, 14702192, 14705568, 14703993, 14700951, 14701230 ],
+  "score" : 202,
+  "time" : 1499228835,
+  "title" : "NASA Revives Plan to Put Nuclear Reactors on Mars",
+  "type" : "story",
+  "url" : "https://www.nbcnews.com/mach/science/nasa-revives-plan-put-nuclear-reactors-mars-ncna778536"
+}

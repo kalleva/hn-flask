@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 516
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14688031.json?print=pretty
+
+{
+  "by" : "pzht",
+  "descendants" : 83,
+  "id" : 14688031,
+  "kids" : [ 14689400, 14688613, 14694030, 14688208, 14717770, 14688741, 14691144, 14688589, 14689233, 14688364, 14688532, 14688360, 14690206, 14695042, 14689332, 14690972, 14690435, 14688216, 14700310, 14689387, 14688236, 14688098, 14691001, 14689427, 14688591, 14688146, 14693952 ],
+  "score" : 142,
+  "time" : 1499088305,
+  "title" : "Show HN: Vecta.io - Team diagramming with an advanced SVG editor",
+  "type" : "story",
+  "url" : "https://vecta.io"
+}

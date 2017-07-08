@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 303
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14698405.json?print=pretty
+
+{
+  "by" : "tommoor",
+  "descendants" : 6,
+  "id" : 14698405,
+  "kids" : [ 14702443, 14702357, 14699492 ],
+  "score" : 28,
+  "time" : 1499203588,
+  "title" : "Quitting the Paint Factory (2004)",
+  "type" : "story",
+  "url" : "http://www.molvray.com/ebooks/Quitting_the_Paint_Factory_Mark_Slouka.html"
+}

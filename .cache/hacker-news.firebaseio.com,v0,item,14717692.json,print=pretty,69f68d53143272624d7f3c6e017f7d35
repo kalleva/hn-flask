@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:52 GMT
+content-type: application/json; charset=utf-8
+content-length: 374
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717692.json?print=pretty
+
+{
+  "by" : "yoav_hollander",
+  "descendants" : 16,
+  "id" : 14717692,
+  "kids" : [ 14720882, 14718995, 14721661, 14720200, 14719786, 14720302 ],
+  "score" : 66,
+  "time" : 1499428509,
+  "title" : "Where machine learning meets rule-based systems",
+  "type" : "story",
+  "url" : "https://blog.foretellix.com/2017/07/06/where-machine-learning-meets-rule-based-verification/"
+}

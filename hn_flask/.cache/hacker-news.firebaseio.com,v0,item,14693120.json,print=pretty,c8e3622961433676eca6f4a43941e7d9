@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:32 GMT
+content-type: application/json; charset=utf-8
+content-length: 363
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693120.json?print=pretty
+
+{
+  "by" : "Gargoyle",
+  "descendants" : 1,
+  "id" : 14693120,
+  "kids" : [ 14693909 ],
+  "score" : 5,
+  "time" : 1499135929,
+  "title" : "Mark Pincus and Reid Hoffman Launch Group to Rethink the Democratic Party",
+  "type" : "story",
+  "url" : "https://www.recode.net/2017/7/3/15904484/pincus-hoffman-linkedin-zynga-clinton-win-the-future-democrats-dnc-trump"
+}

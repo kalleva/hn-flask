@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 530
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701198.json?print=pretty
+
+{
+  "by" : "harrypearson",
+  "descendants" : 0,
+  "id" : 14701198,
+  "score" : 3,
+  "text" : "Hi HN,<p>For my dissertation at University I will be trying to use machine learning techniques to predict weather formations from satellite imagery. Does anyone know of any similar projects or machine learning techniques (KMeans, Clustering, Image Segmentation ) &#x2F; resources that could help me with this.<p>Thanks.",
+  "time" : 1499249874,
+  "title" : "Ask HN: Best resources for learning Image Segmentation",
+  "type" : "story"
+}

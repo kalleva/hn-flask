@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 502
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702686.json?print=pretty
+
+{
+  "by" : "artur_makly",
+  "descendants" : 0,
+  "id" : 14702686,
+  "score" : 1,
+  "text" : "Is ML or whatever neural nets at a stage where you can do this?<p>I want to create a region of points or polygon shape that can outline any hair type with acceptable accuracy ~90%.<p>example: https:&#x2F;&#x2F;www.evernote.com&#x2F;l&#x2F;AIGFxNjaZQ1NuprJiQ7lnWCnHswS7wuLHfUB&#x2F;image.png",
+  "time" : 1499265206,
+  "title" : "Ask HN: Is it possible to viz separate Hair -from- Face?",
+  "type" : "story"
+}

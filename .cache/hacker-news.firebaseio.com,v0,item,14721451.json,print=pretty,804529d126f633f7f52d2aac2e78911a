@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:32 GMT
+content-type: application/json; charset=utf-8
+content-length: 327
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721451.json?print=pretty
+
+{
+  "by" : "petethomas",
+  "descendants" : 0,
+  "id" : 14721451,
+  "score" : 1,
+  "time" : 1499456618,
+  "title" : "Courts, Regulators Must Stop Wells Fargo’s Rigged Arbitration System",
+  "type" : "story",
+  "url" : "https://morningconsult.com/opinions/courts-regulators-must-stop-wells-fargos-rigged-arbitration-system/"
+}

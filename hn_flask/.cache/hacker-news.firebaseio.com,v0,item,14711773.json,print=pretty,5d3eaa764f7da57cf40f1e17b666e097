@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:37 GMT
+content-type: application/json; charset=utf-8
+content-length: 784
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711773.json?print=pretty
+
+{
+  "by" : "MFiech",
+  "descendants" : 0,
+  "id" : 14711773,
+  "score" : 1,
+  "text" : "Hey guys,\nwe&#x27;re thinking about extending our mailing tool into platform&#x2F;marketplace where sales reps can hire professionals who will prospect and gather sales leads for them (with all marketplace features like ratings, price-per-lead, etc.).\nJust wanted to ask:\n- if you have any experience with that?\n- would you try to outsource prospecting?\n- how many days would be acceptable to wait for, e.g. HQ 100 prospect?\n- how much would you be willing to pay for that?<p>Feel free to share any other feedback&#x2F;suggestions you have!\nThanks",
+  "time" : 1499359744,
+  "title" : "What are your experiences with outsourcing prospecting/sales leads outsourcing?",
+  "type" : "story"
+}

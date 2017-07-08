@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 366
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708677.json?print=pretty
+
+{
+  "by" : "FahadUddin92",
+  "descendants" : 7,
+  "id" : 14708677,
+  "kids" : [ 14709302, 14708712, 14710420, 14710589, 14708729 ],
+  "score" : 3,
+  "text" : "If a company can give free internet to the world, what could they do to make money from it?",
+  "time" : 1499325307,
+  "title" : "How can a company make money by giving free internet?",
+  "type" : "story"
+}

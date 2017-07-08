@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 464
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700455.json?print=pretty
+
+{
+  "by" : "nachtigall",
+  "descendants" : 110,
+  "id" : 14700455,
+  "kids" : [ 14703384, 14701238, 14701212, 14704717, 14701689, 14700754, 14705522, 14700591, 14705904, 14703032, 14700620, 14701309, 14701499, 14700774, 14701034 ],
+  "score" : 225,
+  "time" : 1499238955,
+  "title" : "How we made compiler warnings fatal in Firefox",
+  "type" : "story",
+  "url" : "https://blog.mozilla.org/nnethercote/2017/07/05/how-we-made-compiler-warnings-fatal-in-firefox/"
+}

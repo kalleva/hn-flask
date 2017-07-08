@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 483
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14679740.json?print=pretty
+
+{
+  "by" : "danso",
+  "descendants" : 32,
+  "id" : 14679740,
+  "kids" : [ 14680812, 14680322, 14680516, 14680815, 14680801, 14680891, 14680484, 14680778, 14680524, 14680505, 14680708, 14680525 ],
+  "score" : 44,
+  "time" : 1498952092,
+  "title" : "“We quit our jobs, remortgaged our houses” – how passion made Cuphead a reality",
+  "type" : "story",
+  "url" : "http://www.gamesradar.com/we-quit-our-jobs-remortgaged-our-houses-how-relentless-passion-made-cuphead-a-reality/"
+}

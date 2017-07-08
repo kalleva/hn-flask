@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 616
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694451.json?print=pretty
+
+{
+  "by" : "mattcoles",
+  "descendants" : 144,
+  "id" : 14694451,
+  "kids" : [ 14695209, 14694803, 14697533, 14696040, 14695768, 14697172, 14697401, 14695143, 14696571, 14696451, 14696807, 14695428, 14695332, 14695007, 14696298, 14694891, 14696837, 14695738, 14695525, 14695384, 14694871, 14695278, 14694990, 14694753, 14695410, 14697188, 14695223 ],
+  "score" : 220,
+  "time" : 1499157500,
+  "title" : "Facebook can track your browsing even after you've logged out, judge says",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit"
+}

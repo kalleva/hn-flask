@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 451
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700373.json?print=pretty
+
+{
+  "by" : "petethomas",
+  "descendants" : 53,
+  "id" : 14700373,
+  "kids" : [ 14701810, 14700901, 14704024, 14702620, 14704366, 14702643, 14700867, 14700803, 14700807, 14700865 ],
+  "score" : 156,
+  "time" : 1499237469,
+  "title" : "VCs should stop abusing nondisparagement and nondisclosure agreements",
+  "type" : "story",
+  "url" : "https://www.bloomberg.com/news/articles/2017-07-03/if-silicon-valley-wants-to-be-decent-it-should-give-up-ndas"
+}

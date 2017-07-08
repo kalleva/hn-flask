@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:31 GMT
+content-type: application/json; charset=utf-8
+content-length: 270
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721529.json?print=pretty
+
+{
+  "by" : "jrepinc",
+  "descendants" : 0,
+  "id" : 14721529,
+  "score" : 1,
+  "time" : 1499457247,
+  "title" : "Permissive and Copyleft Are Not Antonyms",
+  "type" : "story",
+  "url" : "https://meshedinsights.com/2017/04/04/permissive-and-copyleft-are-not-antonyms/"
+}

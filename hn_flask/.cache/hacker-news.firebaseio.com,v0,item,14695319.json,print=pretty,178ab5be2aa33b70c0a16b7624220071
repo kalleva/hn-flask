@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 529
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695319.json?print=pretty
+
+{
+  "by" : "BerislavLopac",
+  "descendants" : 63,
+  "id" : 14695319,
+  "kids" : [ 14697273, 14696544, 14696620, 14696176, 14696502, 14695726, 14695627, 14697091, 14699617, 14696202, 14695743, 14697233, 14695599, 14695760, 14697553, 14696813, 14696345, 14696467, 14699997, 14696929, 14696105, 14695747, 14696166, 14696605 ],
+  "score" : 346,
+  "time" : 1499169733,
+  "title" : "A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs",
+  "type" : "story",
+  "url" : "http://int10h.org/oldschool-pc-fonts/"
+}

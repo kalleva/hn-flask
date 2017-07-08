@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 220
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711695.json?print=pretty
+
+{
+  "by" : "kharazi",
+  "descendants" : 0,
+  "id" : 14711695,
+  "score" : 1,
+  "time" : 1499359294,
+  "title" : "DeepVision: AUTOMATICALLY IMAGE AND VIDEO TAGGING",
+  "type" : "story",
+  "url" : "http://deepvision.ir"
+}

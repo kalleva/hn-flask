@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 260
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708825.json?print=pretty
+
+{
+  "by" : "fvidalmolina",
+  "descendants" : 1,
+  "id" : 14708825,
+  "kids" : [ 14708831 ],
+  "score" : 4,
+  "time" : 1499327946,
+  "title" : "Show HN: CollectNode – free sysadmins and devops tool",
+  "type" : "story",
+  "url" : "https://collectnode.com/"
+}

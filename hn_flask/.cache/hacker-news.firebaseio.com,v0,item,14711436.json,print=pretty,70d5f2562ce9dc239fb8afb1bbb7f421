@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:21 GMT
+content-type: application/json; charset=utf-8
+content-length: 249
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711436.json?print=pretty
+
+{
+  "by" : "redasadki",
+  "descendants" : 0,
+  "id" : 14711436,
+  "score" : 1,
+  "time" : 1499357544,
+  "title" : "New method to design digital learning",
+  "type" : "story",
+  "url" : "http://redasadki.me/2017/07/06/digitalscholar-reboot-day-1/"
+}

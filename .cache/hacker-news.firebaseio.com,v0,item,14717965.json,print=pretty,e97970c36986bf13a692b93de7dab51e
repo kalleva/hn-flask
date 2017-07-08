@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Fri, 07 Jul 2017 20:15:54 GMT
+content-type: application/json; charset=utf-8
+content-length: 330
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717965.json?print=pretty
+
+{
+  "by" : "Arathorn",
+  "descendants" : 16,
+  "id" : 14717965,
+  "kids" : [ 14719759, 14720805, 14720369, 14718592, 14720373, 14719726 ],
+  "score" : 78,
+  "time" : 1499432373,
+  "title" : "A Call to Arms: Supporting Matrix",
+  "type" : "story",
+  "url" : "https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 306
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695976.json?print=pretty
+
+{
+  "by" : "masit",
+  "descendants" : 12,
+  "id" : 14695976,
+  "kids" : [ 14697076, 14696525, 14696988, 14697423, 14697009, 14696213, 14697424 ],
+  "score" : 51,
+  "time" : 1499177591,
+  "title" : "Kolpa – A fake data generator for Go",
+  "type" : "story",
+  "url" : "https://github.com/malisit/kolpa"
+}

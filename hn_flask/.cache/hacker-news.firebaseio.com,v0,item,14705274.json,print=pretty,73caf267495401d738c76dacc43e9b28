@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 1676
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14705274.json?print=pretty
+
+{
+  "by" : "FamBizThrowaway",
+  "descendants" : 4,
+  "id" : 14705274,
+  "kids" : [ 14705614, 14705337, 14706274, 14705687 ],
+  "score" : 2,
+  "text" : "Throwaway account here. For multiple generations, my family has owned a manufacturing business in the Midwest. It is profitable, and the family and most employees would like me to be the next CEO. I have plenty of ideas for improving and modernizing the company, and would be paid terribly well (in the ballpark of $250k&#x2F;yr in the Midwest), assuming I keep the same salary as the current CEO. However, this opportunity isn&#x27;t really in line with my own personal professional goals.<p>By that, I mean that I would ideally like to continue my graduate studies and get my PhD in computer science (applied machine learning focus). After that, I&#x27;ve dreamed of working for a large tech company like Google where I&#x27;d have the opportunity to work on research and explore my own entrepreneurial ideas.<p>Obviously these two career paths are not mutually exclusive. I do not really want to stay in the small Midwestern town I grew up in, working in an industry I am not particularly excited about. However, the company is important for our community and I don&#x27;t know what its fate would be if I did not step up. Lots of hard-working factory employees&#x27; jobs could be in jeopardy.<p>I would be interested in hearing insight from others who may have been in similar situations, or may have had external influences on their career paths. Thanks so much for your time everyone.",
+  "time" : 1499281728,
+  "title" : "Ask HN: Take over family business or pursue my own professional goals?",
+  "type" : "story"
+}

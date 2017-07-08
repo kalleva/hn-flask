@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:50 GMT
+content-type: application/json; charset=utf-8
+content-length: 303
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708499.json?print=pretty
+
+{
+  "by" : "adrip",
+  "descendants" : 12,
+  "id" : 14708499,
+  "kids" : [ 14711297, 14710456, 14710713, 14711231 ],
+  "score" : 80,
+  "time" : 1499321992,
+  "title" : "Learning Elixir: My side-project",
+  "type" : "story",
+  "url" : "http://adrian-philipp.com/post/learning-elixir-first-side-project"
+}

@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:04 GMT
+content-type: application/json; charset=utf-8
+content-length: 276
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14703987.json?print=pretty
+
+{
+  "by" : "e_oj",
+  "descendants" : 0,
+  "id" : 14703987,
+  "score" : 1,
+  "time" : 1499273232,
+  "title" : "Show HN: Fawn – MongoDB transactions across multiple collections",
+  "type" : "story",
+  "url" : "https://codeburst.io/fawn-transactions-in-mongodb-988d8646e564"
+}

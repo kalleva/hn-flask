@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:47 GMT
+content-type: application/json; charset=utf-8
+content-length: 421
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709256.json?print=pretty
+
+{
+  "by" : "SwellJoe",
+  "descendants" : 41,
+  "id" : 14709256,
+  "kids" : [ 14710180, 14709651, 14711427, 14710192, 14709508, 14710024, 14709609, 14711429 ],
+  "score" : 198,
+  "time" : 1499335917,
+  "title" : "OpenBSD Will Get Unique Kernels on Each Reboot",
+  "type" : "story",
+  "url" : "https://www.bleepingcomputer.com/news/security/openbsd-will-get-unique-kernels-on-each-reboot-do-you-hear-that-linux-windows/"
+}

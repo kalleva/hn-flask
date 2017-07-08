@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:27 GMT
+content-type: application/json; charset=utf-8
+content-length: 229
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702059.json?print=pretty
+
+{
+  "by" : "ertucetin",
+  "descendants" : 1,
+  "id" : 14702059,
+  "kids" : [ 14702650 ],
+  "score" : 2,
+  "time" : 1499260010,
+  "title" : "Ask HN: Has anyone ever been fired because of single line of bug?",
+  "type" : "story"
+}

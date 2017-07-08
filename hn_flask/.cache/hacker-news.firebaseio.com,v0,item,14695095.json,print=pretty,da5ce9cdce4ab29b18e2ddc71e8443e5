@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:02 GMT
+content-type: application/json; charset=utf-8
+content-length: 490
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14695095.json?print=pretty
+
+{
+  "by" : "kumaranvpl",
+  "descendants" : 48,
+  "id" : 14695095,
+  "kids" : [ 14696520, 14696950, 14697429, 14695712, 14695487, 14695507, 14697353, 14695796, 14695409, 14695442, 14697496, 14695441 ],
+  "score" : 85,
+  "time" : 1499166531,
+  "title" : "CIA Targeting Linux Users With OutlawCountry Network Traffic Re-Routing Tool",
+  "type" : "story",
+  "url" : "https://hothardware.com/news/wikileaks-exposes-cia-targeting-linux-users-with-outlawcountry-network-traffic-re-routing-tool"
+}

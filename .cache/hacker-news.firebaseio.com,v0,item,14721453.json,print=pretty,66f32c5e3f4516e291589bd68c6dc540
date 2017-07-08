@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 249
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14721453.json?print=pretty
+
+{
+  "by" : "ninjaofawesome",
+  "descendants" : 0,
+  "id" : 14721453,
+  "score" : 4,
+  "time" : 1499456622,
+  "title" : "Show HN: A Static Site Generator That Deploys to GitHub Pages",
+  "type" : "story",
+  "url" : "http://www.snazziewebsite.com/"
+}

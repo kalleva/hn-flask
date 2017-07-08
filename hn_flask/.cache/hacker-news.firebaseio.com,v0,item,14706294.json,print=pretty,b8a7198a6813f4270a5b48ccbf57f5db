@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:38 GMT
+content-type: application/json; charset=utf-8
+content-length: 407
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14706294.json?print=pretty
+
+{
+  "by" : "curtis",
+  "descendants" : 21,
+  "id" : 14706294,
+  "kids" : [ 14707843, 14706737, 14706531, 14706596, 14707513, 14707441, 14707974, 14707386, 14706482 ],
+  "score" : 72,
+  "time" : 1499290323,
+  "title" : "There is a huge 'monolith' on Phobos, one of Mars's moons",
+  "type" : "story",
+  "url" : "http://www.bbc.com/earth/story/20160923-there-is-a-huge-monolith-on-phobos-one-of-marss-moons"
+}

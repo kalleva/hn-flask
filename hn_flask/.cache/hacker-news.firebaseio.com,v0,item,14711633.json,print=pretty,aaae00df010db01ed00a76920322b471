@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:41 GMT
+content-type: application/json; charset=utf-8
+content-length: 322
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711633.json?print=pretty
+
+{
+  "by" : "codeulike",
+  "descendants" : 0,
+  "id" : 14711633,
+  "score" : 1,
+  "time" : 1499358826,
+  "title" : "DDD – the rule that Entities can't access Repositories directly",
+  "type" : "story",
+  "url" : "https://stackoverflow.com/questions/5694241/ddd-the-rule-that-entities-cant-access-repositories-directly"
+}

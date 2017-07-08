@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:33:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 461
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702938.json?print=pretty
+
+{
+  "by" : "brightball",
+  "descendants" : 0,
+  "id" : 14702938,
+  "score" : 1,
+  "text" : "My son is really into drones and radio controlled everything right now. Seems like a good opportunity to let him learn more about one of the pillar technologies for the world...but I&#x27;m not sure what would be a good resource for a 10 year old. Any good suggestions?",
+  "time" : 1499267131,
+  "title" : "Ask HN: Best intro to radio for kids?",
+  "type" : "story"
+}

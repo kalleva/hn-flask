@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 349
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697363.json?print=pretty
+
+{
+  "by" : "JoshTriplett",
+  "descendants" : 40,
+  "id" : 14697363,
+  "kids" : [ 14699566, 14699012, 14698970, 14699719, 14702404, 14698987, 14699396, 14699711 ],
+  "score" : 124,
+  "time" : 1499191611,
+  "title" : "RFC: Evolving Rust Through Epochs",
+  "type" : "story",
+  "url" : "https://github.com/aturon/rfcs/blob/epochs/text/0000-epochs.md"
+}

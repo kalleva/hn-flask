@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 351
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708671.json?print=pretty
+
+{
+  "by" : "FahadUddin92",
+  "descendants" : 1,
+  "id" : 14708671,
+  "kids" : [ 14708763 ],
+  "score" : 4,
+  "text" : "What are the issues with making internet a free resource around the world and making sure Governments pay for internet?",
+  "time" : 1499325011,
+  "title" : "Can internet access be made free around the world?",
+  "type" : "story"
+}

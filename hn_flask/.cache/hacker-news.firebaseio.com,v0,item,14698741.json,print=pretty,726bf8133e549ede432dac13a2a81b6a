@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 887
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14698741.json?print=pretty
+
+{
+  "by" : "kawera",
+  "descendants" : 328,
+  "id" : 14698741,
+  "kids" : [ 14699040, 14702301, 14699855, 14699150, 14699090, 14699011, 14699088, 14698988, 14699034, 14706837, 14699517, 14700301, 14699206, 14699447, 14699762, 14699082, 14698952, 14699227, 14700350, 14699124, 14701926, 14700174, 14699557, 14705303, 14699479, 14699658, 14700573, 14700254, 14699091, 14700465, 14700312, 14699932, 14699103, 14700565, 14699186, 14699538, 14700678, 14700329, 14702435, 14699455, 14699845, 14699824, 14699089, 14700062, 14699646, 14699140, 14699695, 14702082, 14702840, 14699024, 14700575, 14699126, 14699169, 14699151, 14699155, 14699252, 14701659, 14701004 ],
+  "score" : 347,
+  "time" : 1499207432,
+  "title" : "The $100B per year back pain industry is mostly a hoax",
+  "type" : "story",
+  "url" : "https://qz.com/1010259/the-100-billion-per-year-back-pain-industry-is-mostly-a-hoax/"
+}

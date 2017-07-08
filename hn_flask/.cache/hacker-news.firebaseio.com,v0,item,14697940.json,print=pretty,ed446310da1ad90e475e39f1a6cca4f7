@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:28 GMT
+content-type: application/json; charset=utf-8
+content-length: 294
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14697940.json?print=pretty
+
+{
+  "by" : "ereli1",
+  "descendants" : 0,
+  "id" : 14697940,
+  "score" : 4,
+  "time" : 1499198545,
+  "title" : "A Data Scientist Read My Search History. It Was Horrifying – Time.com",
+  "type" : "story",
+  "url" : "http://time.com/4819577/algorithm-whisperer-took-me-to-heart-of-darkness/"
+}

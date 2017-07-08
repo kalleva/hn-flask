@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:30 GMT
+content-type: application/json; charset=utf-8
+content-length: 357
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700619.json?print=pretty
+
+{
+  "by" : "femto",
+  "descendants" : 0,
+  "id" : 14700619,
+  "score" : 3,
+  "time" : 1499241407,
+  "title" : "G20 summit: Malcolm Turnbull to urge Donald Trump to act against tech terrorists",
+  "type" : "story",
+  "url" : "http://www.smh.com.au/federal-politics/political-news/turnbull-to-urge-trump-to-act-against-tech-terrorists-20170703-gx41qr.html"
+}

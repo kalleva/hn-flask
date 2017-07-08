@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:22:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 295
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711304.json?print=pretty
+
+{
+  "by" : "ohjeez",
+  "descendants" : 0,
+  "id" : 14711304,
+  "score" : 3,
+  "time" : 1499356485,
+  "title" : "After 5 years of Dvorak, I am switching back to Qwerty",
+  "type" : "story",
+  "url" : "https://medium.com/@xkpb/after-5-years-of-dvorak-i-am-switching-back-to-qwerty-5756b8f607de"
+}

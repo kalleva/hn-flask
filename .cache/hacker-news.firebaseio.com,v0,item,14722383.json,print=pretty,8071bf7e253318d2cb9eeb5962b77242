@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:03 GMT
+content-type: application/json; charset=utf-8
+content-length: 418
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14722383.json?print=pretty
+
+{
+  "by" : "philix001",
+  "descendants" : 96,
+  "id" : 14722383,
+  "kids" : [ 14723243, 14723693, 14722757, 14723370, 14723629, 14723302, 14722790, 14722644, 14723443, 14722642, 14722603, 14723406, 14722868, 14722791, 14723568 ],
+  "score" : 144,
+  "time" : 1499463878,
+  "title" : "Where Do Type Systems Come From?",
+  "type" : "story",
+  "url" : "http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/"
+}

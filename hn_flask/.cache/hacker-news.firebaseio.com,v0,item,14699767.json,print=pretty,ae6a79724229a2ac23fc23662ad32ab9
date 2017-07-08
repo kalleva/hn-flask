@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:00:32 GMT
+content-type: application/json; charset=utf-8
+content-length: 424
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699767.json?print=pretty
+
+{
+  "by" : "cyanbane",
+  "descendants" : 8,
+  "id" : 14699767,
+  "kids" : [ 14702214, 14706832, 14700888 ],
+  "score" : 19,
+  "time" : 1499224625,
+  "title" : "All-Girls Teen Engineering Team Creates a Solar-Powered Tent for Homeless People",
+  "type" : "story",
+  "url" : "http://www.npr.org/sections/alltechconsidered/2017/06/22/533909715/all-girls-teen-engineering-team-create-a-solar-powered-tent-for-homeless-people"
+}

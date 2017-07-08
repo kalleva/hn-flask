@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:14 GMT
+content-type: application/json; charset=utf-8
+content-length: 245
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14679267.json?print=pretty
+
+{
+  "by" : "colinscape",
+  "descendants" : 0,
+  "id" : 14679267,
+  "kids" : [ 14679411 ],
+  "score" : 21,
+  "time" : 1498946292,
+  "title" : "Virtual Lorenz",
+  "type" : "story",
+  "url" : "http://www.virtualcolossus.co.uk/Lorenz/lorenz.html"
+}

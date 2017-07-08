@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:59:44 GMT
+content-type: application/json; charset=utf-8
+content-length: 621
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14706920.json?print=pretty
+
+{
+  "by" : "patientplatypus",
+  "descendants" : 0,
+  "id" : 14706920,
+  "score" : 1,
+  "text" : "I&#x27;m a new developer and I&#x27;ve been going to a bunch of hackathon to try and learn, make things,and meet interesting people. There is an upcoming hackathon sponsored by angelhack which looks very cool that I will be going too. I&#x27;m trying to learn more about the organization, but everything I read online seems to be some sort of press release so it&#x27;s hard to cut through the hype. Do people have any thoughts?",
+  "time" : 1499296399,
+  "title" : "What do people think of AngelHack",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:12 GMT
+content-type: application/json; charset=utf-8
+content-length: 399
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14680666.json?print=pretty
+
+{
+  "by" : "robin_reala",
+  "descendants" : 16,
+  "id" : 14680666,
+  "kids" : [ 14681163, 14681360, 14681155, 14680882, 14680744 ],
+  "score" : 42,
+  "time" : 1498965294,
+  "title" : "A large satellite appears to be falling apart in geostationary orbit",
+  "type" : "story",
+  "url" : "https://arstechnica.com/science/2017/07/a-large-satellite-appears-to-be-falling-apart-in-geostationary-orbit/"
+}

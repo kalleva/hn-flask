@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:40 GMT
+content-type: application/json; charset=utf-8
+content-length: 320
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693409.json?print=pretty
+
+{
+  "by" : "janeboo",
+  "descendants" : 0,
+  "id" : 14693409,
+  "score" : 25,
+  "time" : 1499140193,
+  "title" : "500 Startups partner Elizabeth Yin quit over McClure situation",
+  "type" : "story",
+  "url" : "http://www.businessinsider.com/500-startups-partner-quits-cites-firms-handling-dave-mcclure-charges-2017-7"
+}

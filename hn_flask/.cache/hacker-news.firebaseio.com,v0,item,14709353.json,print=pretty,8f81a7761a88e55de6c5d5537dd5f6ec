@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:24:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 319
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709353.json?print=pretty
+
+{
+  "by" : "dnetesn",
+  "descendants" : 37,
+  "id" : 14709353,
+  "kids" : [ 14711107, 14710984, 14711027, 14710348, 14710098 ],
+  "score" : 35,
+  "time" : 1499337361,
+  "title" : "Emojis are the body language of the digital age",
+  "type" : "story",
+  "url" : "http://nautil.us/issue/50/emergence/why-you-need-emoji"
+}

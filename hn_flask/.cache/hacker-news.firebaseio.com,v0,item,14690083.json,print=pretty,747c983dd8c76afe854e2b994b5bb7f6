@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:09:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 302
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14690083.json?print=pretty
+
+{
+  "by" : "a_w",
+  "descendants" : 1,
+  "id" : 14690083,
+  "kids" : [ 14691329 ],
+  "score" : 21,
+  "time" : 1499103970,
+  "title" : "The rules of brainstorming, according to top design firm IDEO",
+  "type" : "story",
+  "url" : "https://boingboing.net/2017/07/03/the-rules-of-brainstorming-ac.html"
+}

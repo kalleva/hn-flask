@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:28:23 GMT
+content-type: application/json; charset=utf-8
+content-length: 341
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711378.json?print=pretty
+
+{
+  "by" : "otirp",
+  "descendants" : 0,
+  "id" : 14711378,
+  "score" : 1,
+  "text" : "Tasty Tiles in on Open beta\nhope you&#x27;ll check it out\nhere&#x27;s the link:\nhttps:&#x2F;&#x2F;play.google.com&#x2F;apps&#x2F;testing&#x2F;air.com.PritoStudio.TastyTiles",
+  "time" : 1499357085,
+  "title" : "Tasty Tiles Beta",
+  "type" : "story"
+}

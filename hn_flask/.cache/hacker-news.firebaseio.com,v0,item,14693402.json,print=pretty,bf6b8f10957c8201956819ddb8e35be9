@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 395
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693402.json?print=pretty
+
+{
+  "by" : "cscurmudgeon",
+  "descendants" : 36,
+  "id" : 14693402,
+  "kids" : [ 14699439, 14698448, 14699007, 14698034, 14698434, 14698249, 14699174, 14698345, 14698429 ],
+  "score" : 105,
+  "time" : 1499140063,
+  "title" : "A man who went on a hike and never stopped",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/world/2017/jul/03/hiking-walking-nimblewill-nomad-mj-eberhart"
+}

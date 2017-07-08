@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:17:06 GMT
+content-type: application/json; charset=utf-8
+content-length: 387
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717519.json?print=pretty
+
+{
+  "by" : "akbarnama",
+  "descendants" : 14,
+  "id" : 14717519,
+  "kids" : [ 14724282, 14721427, 14721906, 14723402, 14722125, 14722141, 14721264, 14720371 ],
+  "score" : 46,
+  "time" : 1499425885,
+  "title" : "What Freedom and Revolution Really Mean",
+  "type" : "story",
+  "url" : "http://lithub.com/never-before-published-hannah-arendt-on-what-freedom-and-revolution-really-mean/"
+}

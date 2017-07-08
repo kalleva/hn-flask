@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<title>HN Flask</title>
+<link rel="stylesheet" type="text/css"
+href="{{ url_for('static', filename='style_v2.css') }}">
+<center>
+  <table class="main">
+    <tr class="header_row">
+      <td colspan="3">
+        <table class="header_table">
+          <tr>
+            <td class="ylogo_container">
+              <a class="y_link" href="https://www.ycombinator.com/">
+                <img class="ylogo" src="{{ url_for('static', filename='y18.gif') }}" width="18px" height="18px"/>
+              </a>
+            </td>
+            <td class="hn_title_container"><a class="hn_title" href={{ site_links['top_url'] }}>Hacker News (copy)</a></td>
+            <td>
+            {% if link_dest == 'new' %}
+              <a class="header_link_current" href={{ site_links['new_url'] }}>new</a>
+            {% else %}
+              <a class="header_link" href={{ site_links['new_url'] }}>new</a>
+            {% endif %}
+               | <span>comments</span> |
+            {% if link_dest == 'show' %}
+              <a class="header_link_current" href={{ site_links['show_url'] }}>show</a>
+            {% else %}
+              <a class="header_link" href={{ site_links['show_url'] }}>show</a>
+            {% endif %}
+               |
+            {% if link_dest == 'ask' %}
+              <a class="header_link_current" href={{ site_links['ask_url'] }}>ask</a>
+            {% else %}
+              <a class="header_link" href={{ site_links['ask_url'] }}>ask</a>
+            {% endif %}
+                |
+            {% if link_dest == 'jobs' %}
+              <a class="header_link_current" href={{ site_links['jobs_url'] }}>jobs</a>
+            {% else %}
+              <a class="header_link" href={{ site_links['jobs_url'] }}>jobs</a>
+            {% endif %}
+                 | <span>submit</span></td>
+            <td class="login">login</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr style="height: 10px"></tr>
+  {% for story in stories %}
+    <tr class="title_row">
+      <td class="index">{{ story['index'] }}.</td>
+      <td  class="upvote" >
+        <a title="upvote" href="#">
+          <img src="{{ url_for('static', filename='grayarrow.gif') }}"/>
+        </a>
+      </td>
+      <td>
+        <a class="title first_line" href={{ story['url'] }}>{{ story['title'] }}</a>
+        {% if story['site_name'] != '' %}
+          <span class="first_line">(<span>{{ story['site_name'] }}</span>)</span>
+        {% endif %}
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td class="info_cell">
+        {% if story['score'] != '1' %}
+          <span>{{ story['score']}} points</span>
+        {% else %}
+          <span>1 point</span>
+        {% endif %}
+        by <span>{{ story['by'] }}</span>
+        {% if story['time_since_posted'] != '1' %}
+          <span>{{ story['time_since_posted'] }} hours ago</span>
+        {% else %}
+          <span>1 hour ago</span>
+        {% endif %}
+        |
+        {% if story['comments'] != '1' %}
+          <span>{{ story['comments'] }} comments</span>
+        {% else %}
+          <span>1 comment</span>
+        {% endif %}
+        <span> | save to pocket</span>
+      </td>
+    </tr>
+    <tr class="spacer"></tr>
+  {% endfor %}
+    <tr style="height: 8px"></tr>
+  {% if no_more == False %}
+    <tr>
+      <td colspan="2"></td>
+      <td><a class="title" href={{ more }}>More</a></td>
+    </tr>
+    <tr style="height: 5px"></tr>
+  {% endif %}
+    <tr class="bottom_orange_spacer">
+      <td colspan="3"></td>
+    </tr>
+    <tr class="bottom_big_spacer"></tr>
+  </table>
+</center>

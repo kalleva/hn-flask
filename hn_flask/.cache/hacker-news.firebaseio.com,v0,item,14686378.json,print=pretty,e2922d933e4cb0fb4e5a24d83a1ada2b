@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:31 GMT
+content-type: application/json; charset=utf-8
+content-length: 301
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14686378.json?print=pretty
+
+{
+  "by" : "thmslee",
+  "descendants" : 2,
+  "id" : 14686378,
+  "kids" : [ 14690246 ],
+  "score" : 10,
+  "time" : 1499064850,
+  "title" : "Choosing a front end framework in 2017",
+  "type" : "story",
+  "url" : "https://medium.com/this-dot-labs/building-modern-web-applications-in-2017-791d2ef2e341"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:36 GMT
+content-type: application/json; charset=utf-8
+content-length: 437
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14702048.json?print=pretty
+
+{
+  "by" : "indescions_2017",
+  "descendants" : 17,
+  "id" : 14702048,
+  "kids" : [ 14704236, 14707145, 14707570, 14703716, 14705187, 14703952, 14705667 ],
+  "score" : 111,
+  "time" : 1499259932,
+  "title" : "Introducing HumbleNet: Cross-Platform Networking Library for the Browser",
+  "type" : "story",
+  "url" : "https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/"
+}

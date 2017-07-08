@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:24:13 GMT
+content-type: application/json; charset=utf-8
+content-length: 342
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14707822.json?print=pretty
+
+{
+  "by" : "kcorbitt",
+  "descendants" : 26,
+  "id" : 14707822,
+  "kids" : [ 14708895, 14708222, 14708923, 14709587, 14708182, 14708191, 14708196, 14710194, 14708429 ],
+  "score" : 151,
+  "time" : 1499309157,
+  "title" : "A ReasonReact Tutorial",
+  "type" : "story",
+  "url" : "https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/"
+}

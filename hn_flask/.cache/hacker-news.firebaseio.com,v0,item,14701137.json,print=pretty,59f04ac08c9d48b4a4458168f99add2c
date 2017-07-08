@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:10 GMT
+content-type: application/json; charset=utf-8
+content-length: 274
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14701137.json?print=pretty
+
+{
+  "by" : "mingabunga",
+  "descendants" : 3,
+  "id" : 14701137,
+  "kids" : [ 14701141, 14702100 ],
+  "score" : 2,
+  "time" : 1499249113,
+  "title" : "Show HN: IMAP, POP, SMTP Email Settings Lookup and JSON API",
+  "type" : "story",
+  "url" : "http://emailsettings.email"
+}

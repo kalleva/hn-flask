@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 1960
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14692027.json?print=pretty
+
+{
+  "by" : "wellinever",
+  "descendants" : 0,
+  "id" : 14692027,
+  "score" : 11,
+  "text" : "Abstract.  Token-funded bounties to incentivize competition-style participation in blockchain development projects would result in wider and better allocation of investment, and allow investors to diversify exposure across a field of potentially successful projects.  Overall this would increase the rate of progress within development of the blockchain space.   We propose a centralised platform for the administration of token-funded bounty driven development projects whereby experts allocate pools of invested capital according to the technical merits of development projects, and investors are rewarded with token allocation in funded projects.<p>Draft Whitepaper:\n<a href=\"http:&#x2F;&#x2F;chainbounty.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;07&#x2F;chainbountywhitepaper-draft.pdf\" rel=\"nofollow\">http:&#x2F;&#x2F;chainbounty.com&#x2F;wp-content&#x2F;uploads&#x2F;2017&#x2F;07&#x2F;chainbount...</a><p>We see this as bringing a variation of the YC model to blockchain - experts select large numbers of small projects and provide them with funding to reach the next level of development.  This is in contrast to heavily funded ICOs where tiny teams of developers are given hundreds of millions of dollars.<p>After feedback from HN readers: \n - Do you think this model will better incentivize development in the blockchain space? \n - What particular challenges do you think would be useful to run?<p><a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;ChainBounty&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;ChainBounty&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.facebook.com&#x2F;ChainBounty-449553402088106&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.facebook.com&#x2F;ChainBounty-449553402088106&#x2F;</a>",
+  "time" : 1499121997,
+  "title" : "Show HN: ChainBounty – improving the blockchain funding model",
+  "type" : "story"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:31 GMT
+content-type: application/json; charset=utf-8
+content-length: 321
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14693714.json?print=pretty
+
+{
+  "by" : "amiller2571",
+  "descendants" : 2,
+  "id" : 14693714,
+  "kids" : [ 14694035, 14694149 ],
+  "score" : 8,
+  "time" : 1499145949,
+  "title" : "Data glitch sets tech company stock prices at $123.47",
+  "type" : "story",
+  "url" : "https://www.theverge.com/2017/7/3/15917950/nasdaq-nyse-stock-market-data-error"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 1172
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700211.json?print=pretty
+
+{
+  "by" : "edcr",
+  "descendants" : 3,
+  "id" : 14700211,
+  "kids" : [ 14701049, 14700448 ],
+  "score" : 5,
+  "text" : "Hi,<p>I have set up this service to help people, HN people :) start side projects.<p>The idea is that whenever we start a new project we need to:<p>- Register a domain\n- Setup email\n- Setup cloud flare\n- Setup google analytics\n- Create a deployment pipeline\n- Deploy somewhere\n- Configure DNS to support all this<p>Whenever I do this I spend at least 3-4 hours doing this on a project that might not go live and where I would much rather be hacking on something rather than waiting for cloud flare to find the nameserver changes!<p>So you pay a one time small fee plus the cost of the domain and we set all this up for you so you can check your code in and have it deploy.<p>To get started it is pretty manual but will automate it completely in time once I know what the top 2 or 3 deployment scenarios are.<p>Any feedback is great fully received :)<p>HTTPS:&#x2F;&#x2F;Miwiti.com &quot;A bootstrapper for side projects&quot;<p>Ed",
+  "time" : 1499234106,
+  "title" : "Show HN: https://Miwiti.com deployable side projects",
+  "type" : "story"
+}

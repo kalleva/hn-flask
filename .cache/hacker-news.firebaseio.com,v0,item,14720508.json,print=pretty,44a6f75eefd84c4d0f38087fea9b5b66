@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 271
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14720508.json?print=pretty
+
+{
+  "by" : "manchagnu",
+  "descendants" : 1,
+  "id" : 14720508,
+  "kids" : [ 14720736 ],
+  "score" : 6,
+  "time" : 1499450282,
+  "title" : "Show HN: Bit-bundler – simplify the JavaScript bundling experience",
+  "type" : "story",
+  "url" : "https://bundler.bitjs.io/"
+}

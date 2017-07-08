@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 05:36:39 GMT
+content-type: application/json; charset=utf-8
+content-length: 387
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14700647.json?print=pretty
+
+{
+  "by" : "TimPetricola",
+  "descendants" : 32,
+  "id" : 14700647,
+  "kids" : [ 14700824, 14701222, 14702740, 14701306, 14700749, 14701898, 14703800, 14700751, 14701842, 14701912 ],
+  "score" : 99,
+  "time" : 1499241822,
+  "title" : "Running feature specs with Capybara and Chrome headless",
+  "type" : "story",
+  "url" : "https://drivy.engineering/running-capybara-headless-chrome/"
+}

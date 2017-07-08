@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sat, 08 Jul 2017 07:23:35 GMT
+content-type: application/json; charset=utf-8
+content-length: 428
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14717182.json?print=pretty
+
+{
+  "by" : "z3t4",
+  "descendants" : 56,
+  "id" : 14717182,
+  "kids" : [ 14719037, 14719312, 14718121, 14718125, 14718080, 14718739, 14718828, 14718317, 14717997, 14718255, 14718850, 14721487, 14717897, 14717890, 14720839, 14717996, 14722875, 14718131 ],
+  "score" : 78,
+  "time" : 1499420728,
+  "title" : "Show HN: A search widget for static web sites",
+  "type" : "story",
+  "url" : "http://www.webtigerteam.com/websearch/"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:08:26 GMT
+content-type: application/json; charset=utf-8
+content-length: 331
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699429.json?print=pretty
+
+{
+  "by" : "setra",
+  "descendants" : 9,
+  "id" : 14699429,
+  "kids" : [ 14699887 ],
+  "score" : 92,
+  "time" : 1499217890,
+  "title" : "Thinking Parallel, Part I: Collision Detection on the GPU (2012)",
+  "type" : "story",
+  "url" : "https://devblogs.nvidia.com/parallelforall/thinking-parallel-part-i-collision-detection-gpu/"
+}

@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:52:59 GMT
+content-type: application/json; charset=utf-8
+content-length: 445
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14696475.json?print=pretty
+
+{
+  "by" : "sjcsjc",
+  "descendants" : 75,
+  "id" : 14696475,
+  "kids" : [ 14696778, 14697560, 14697378, 14697197, 14697460, 14696712, 14696819, 14696893, 14697069, 14696936, 14696879, 14697133, 14696810, 14696809, 14697164, 14696717, 14696775 ],
+  "score" : 114,
+  "time" : 1499182684,
+  "title" : "Can a Diet That Mimics Fasting Turn Back the Clock?",
+  "type" : "story",
+  "url" : "http://jamanetwork.com/journals/jama/fullarticle/2636710"
+}

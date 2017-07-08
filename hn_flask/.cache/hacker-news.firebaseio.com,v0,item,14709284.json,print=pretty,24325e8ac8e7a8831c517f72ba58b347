@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:48 GMT
+content-type: application/json; charset=utf-8
+content-length: 511
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14709284.json?print=pretty
+
+{
+  "by" : "nixme",
+  "descendants" : 39,
+  "id" : 14709284,
+  "kids" : [ 14711851, 14710202, 14710726, 14711646, 14710056, 14711188, 14710773, 14711402, 14711530, 14711465, 14710871, 14711503, 14710236, 14709478 ],
+  "score" : 100,
+  "time" : 1499336391,
+  "title" : "NIST to redefine the kilogram based on a fundamental universal constant",
+  "type" : "story",
+  "url" : "https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/05/scientists-are-about-to-change-what-a-kilogram-is-thats-massive"
+}

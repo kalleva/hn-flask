@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:11 GMT
+content-type: application/json; charset=utf-8
+content-length: 404
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14679061.json?print=pretty
+
+{
+  "by" : "vyrotek",
+  "descendants" : 39,
+  "id" : 14679061,
+  "kids" : [ 14679977, 14680875, 14680885, 14681331, 14681194, 14680709, 14680077, 14680003, 14680780 ],
+  "score" : 65,
+  "time" : 1498943593,
+  "title" : "What I Learned from Researching Coding Bootcamps",
+  "type" : "story",
+  "url" : "https://medium.com/bits-and-behavior/what-i-learned-from-researching-coding-bootcamps-f594c15bd9e0"
+}

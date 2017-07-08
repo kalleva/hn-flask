@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Tue, 04 Jul 2017 18:53:00 GMT
+content-type: application/json; charset=utf-8
+content-length: 242
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14694954.json?print=pretty
+
+{
+  "by" : "bryanrasmussen",
+  "descendants" : 8,
+  "id" : 14694954,
+  "kids" : [ 14696478 ],
+  "score" : 38,
+  "time" : 1499164903,
+  "title" : "Diffusion Imaging in Python",
+  "type" : "story",
+  "url" : "http://nipy.org/dipy/index.html"
+}

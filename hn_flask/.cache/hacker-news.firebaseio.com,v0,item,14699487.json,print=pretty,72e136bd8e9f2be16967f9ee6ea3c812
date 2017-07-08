@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 06:14:30 GMT
+content-type: application/json; charset=utf-8
+content-length: 347
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14699487.json?print=pretty
+
+{
+  "by" : "Gatsky",
+  "descendants" : 1,
+  "id" : 14699487,
+  "kids" : [ 14699568 ],
+  "score" : 11,
+  "time" : 1499219071,
+  "title" : "I thought nothing in Russia could shock me. Then I went to a TV broadcast",
+  "type" : "story",
+  "url" : "https://www.theguardian.com/commentisfree/2017/jun/30/russia-putin-protests-police-arrests-tv-show"
+}

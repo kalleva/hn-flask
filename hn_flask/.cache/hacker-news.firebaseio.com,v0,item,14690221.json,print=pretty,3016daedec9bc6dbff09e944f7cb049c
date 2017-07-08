@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 07:57:01 GMT
+content-type: application/json; charset=utf-8
+content-length: 283
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14690221.json?print=pretty
+
+{
+  "by" : "jimmysoda",
+  "descendants" : 0,
+  "id" : 14690221,
+  "score" : 3,
+  "time" : 1499105211,
+  "title" : "Show HN: An AWS IoT Button lambda to tweet a random quote from wikiquote.org",
+  "type" : "story",
+  "url" : "https://jimmysoda.github.io/wikiquote-tweet-awslambda/"
+}

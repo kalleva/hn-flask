@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Sun, 02 Jul 2017 08:17:09 GMT
+content-type: application/json; charset=utf-8
+content-length: 470
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14679876.json?print=pretty
+
+{
+  "by" : "SeanBoocock",
+  "descendants" : 39,
+  "id" : 14679876,
+  "kids" : [ 14680316, 14680261, 14680996, 14680795, 14681220, 14680428, 14680543, 14680593, 14680241, 14681193, 14681348, 14681282, 14680648, 14680558, 14680409, 14680432, 14680278, 14680335 ],
+  "score" : 99,
+  "time" : 1498953901,
+  "title" : "O'Reilly's Decision and Its DRM Implication",
+  "type" : "story",
+  "url" : "https://scottmeyers.blogspot.com/2017/06/oreillys-decision-and-its-drm.html"
+}

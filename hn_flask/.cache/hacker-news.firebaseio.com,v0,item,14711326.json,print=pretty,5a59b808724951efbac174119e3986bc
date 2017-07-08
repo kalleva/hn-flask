@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:24:25 GMT
+content-type: application/json; charset=utf-8
+content-length: 324
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14711326.json?print=pretty
+
+{
+  "by" : "janober",
+  "descendants" : 0,
+  "id" : 14711326,
+  "score" : 1,
+  "time" : 1499356675,
+  "title" : "Over EUR 21M in Funding from Round 3 of the Digital News Initiative Fund",
+  "type" : "story",
+  "url" : "https://www.blog.google/topics/google-europe/21-million-funding-round-3-digital-news-initiative-fund/"
+}

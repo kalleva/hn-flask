@@ -1,0 +1,22 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 17:00:48 GMT
+content-type: application/json; charset=utf-8
+content-length: 286
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14710459.json?print=pretty
+
+{
+  "by" : "gk1",
+  "descendants" : 22,
+  "id" : 14710459,
+  "kids" : [ 14711037, 14710779, 14711538, 14710489, 14711680, 14711561, 14711428 ],
+  "score" : 53,
+  "time" : 1499349788,
+  "title" : "Meow Generator",
+  "type" : "story",
+  "url" : "https://ajolicoeur.wordpress.com/cats/"
+}

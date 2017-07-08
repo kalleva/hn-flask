@@ -1,0 +1,21 @@
+status: 200
+server: nginx
+date: Thu, 06 Jul 2017 16:29:43 GMT
+content-type: application/json; charset=utf-8
+content-length: 592
+connection: keep-alive
+access-control-allow-origin: *
+cache-control: no-cache
+strict-transport-security: max-age=31556926; includeSubDomains; preload
+content-location: https://hacker-news.firebaseio.com/v0/item/14708396.json?print=pretty
+
+{
+  "by" : "DayneRathbone",
+  "descendants" : 0,
+  "id" : 14708396,
+  "score" : 3,
+  "text" : "Hi, I’m a founder of an Australian startup, and my co-founders and I are in SF for the next 2 days (until Friday evening, 5 Jul ‘17).<p>Our startup is a seed-stage consumer internet platform, and our mission is to make it easy to learn about any person.<p>Website: www.karma.wiki\nExecutive Summary: https:&#x2F;&#x2F;goo.gl&#x2F;Exm4hg\nPitch Deck: https:&#x2F;&#x2F;goo.gl&#x2F;sGkg13<p>Thanks",
+  "time" : 1499320013,
+  "title" : "Any SF/SV angels available to meet?",
+  "type" : "story"
+}
