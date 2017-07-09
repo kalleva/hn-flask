@@ -6,5 +6,12 @@ setup(
     include_package_data=True,
     install_requires=[
         'flask',
+        'click',
+        'gunicorn',
+        'httplib2',
+        'itsdangerous',
+        'Jinja2',
+        'MarkupSafe',
+        'Werkzeug'
     ],
 )
