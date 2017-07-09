@@ -37,22 +37,16 @@ hn_site_links = {
 @app.route('/')
 @app.route('/news')
 def top_pages():
-    # if not hn_site_links:
-    #     init_sitelinks(get_base_url(request.url))
     return create_template('top_stories', 'top')
 
 
 @app.route('/show')
 def show_pages():
-    # if not hn_site_links:
-    #     init_sitelinks(get_base_url(request.url))
     return create_template('show_stories', 'show')
 
 
 @app.route('/newest')
 def new_pages():
-    # if not hn_site_links:
-    #     init_sitelinks(get_base_url(request.url))
     return create_template('new_stories', 'new')
 
 
