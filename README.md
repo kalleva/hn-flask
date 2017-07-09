@@ -1,9 +1,10 @@
 ## Overview
 
-[Hacker News](https://news.ycombinator.com/) copy that uses Flask + Jinja2 for
+[Hacker News](https://news.ycombinator.com/) copy that uses [Flask](http://flask.pocoo.org/) + [Jinja2](http://jinja.pocoo.org/docs/2.9/) for
 routing and templating and [Hacker News REST API](https://github.com/HackerNews/API)
 as source of data. In current state doesen't allow to view comments.
 
+[Running version on Heroku](https://hn-flask.herokuapp.com/)
 
 ## Install locally
 
