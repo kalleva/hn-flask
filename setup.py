@@ -12,6 +12,7 @@ setup(
         'itsdangerous',
         'Jinja2',
         'MarkupSafe',
-        'Werkzeug'
+        'Werkzeug',
+        'aiohttp'
     ],
 )

@@ -2,6 +2,8 @@ from flask import Flask, render_template, request
 import httplib2
 import json
 import datetime
+import asyncio
+from aiohttp import ClientSession
 from urllib.parse import urlparse, urlencode, parse_qsl, urlunparse
 
 app = Flask(__name__)
@@ -33,6 +35,8 @@ hn_site_links = {
     'jobs_url': '/jobs'
 }
 
+loop = asyncio.get_event_loop()
+
 
 @app.route('/')
 @app.route('/news')
@@ -47,6 +51,7 @@ def show_pages():
 
 @app.route('/newest')
 def new_pages():
+
     return create_template('new_stories', 'new')
 
 
@@ -97,13 +102,39 @@ def fetch_stories(theme):
 
 
 def fetch_content_current_page_stories(ids):
-    """Fetch info from API for every element in list of ids."""
+    """Asynchroniously fetch info from API for every element in list of ids."""
+
+    # use this record to restore inital order of stories, after we accuire them
+    # asynchroniously in unpredictable order
+    record_of_stories = {key: '' for key in ids}
+    future = asyncio.ensure_future(run(ids, record_of_stories))
+    loop.run_until_complete(future)
+
+    # at this point record_of_stories containd all requested stories
+    # all we need to do is to take them out in order in which corresponding
+    # id lives in ids list
     stories = []
     for id in ids:
-        response, content = h.request(hn_api_urls['item_url'].format(id))
-        if response.status == 200:
-            stories.append(dict(json.loads(content)))
+        stories.append(record_of_stories[id])
     return stories
+
+
+async def fetch(url, session):
+    async with session.get(url) as response:
+        return await response.read()
+
+
+async def run(ids, record):
+    tasks = []
+    async with ClientSession() as session:
+        for id in ids:
+            task = asyncio.ensure_future(
+                fetch(hn_api_urls['item_url'].format(id), session))
+            tasks.append(task)
+        responses = await asyncio.gather(*tasks)
+        for story in responses:
+            i = json.loads(story, encoding='utf-8')
+            record[i['id']] = i
 
 
 def add_properties(stories, start=1):
